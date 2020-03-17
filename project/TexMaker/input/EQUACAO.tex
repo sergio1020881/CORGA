@@ -1,0 +1,152 @@
+\part*{Equa\c{c}\~{o}es} \label{eq}
+%
+\begin{flushleft}
+{\bf Corrente Continua Condi\c{c}\~{o}es \index{Condi\c{c}\~{o}es} iniciais \index{iniciais} nulas \index{nulas}.}\par
+\end{flushleft}
+ \quad Circuito \index{Circuito} $LC$ em $C.C$:\par
+%
+\begin{itemize}
+\item
+$i(t)=\frac{V_{DC}\sqrt{LC}}{L}\quad \sin \left( \frac{t}{\sqrt{LC}}\right)\times u(t)$\par
+\item
+$V_L(t)=V_{DC}\quad \cos\left(\frac{t}{\sqrt{LC}} \right)\times u(t)$\par
+\item
+$V_c(t)=V_{DC}\quad \left(1-\cos\left(\frac{t}{\sqrt{LC}} \right) \right)\times u(t)$\par
+\item
+$\omega_n=\frac{1}{\sqrt{LC}}$\par
+\item
+$\overline{Z}=\sqrt{(\omega_n L-\frac{1}{\omega_n C})^2}$\par
+\item
+$\phi_p=\frac{\pi}{2}$\par
+porque, $\sin(\omega_n t)= \cos(\omega_n t - \pi/2)$\par
+\item
+$\tau=\infty$\par
+\end{itemize}
+%
+%%%%%%%%%%%%%%%%%%%%%
+\quad Circuito \index{Circuito} $RLC$ em $C.C$:\par
+%
+\begin{enumerate}
+%enum1
+\item
+Para \quad $C(C R^2-4 L)>0$ \quad (Ra\'{i}zes \index{Ra\'{i}zes} reais \index{reais} diferentes \index{diferentes}) \quad Sobreamortecido \index{Sobreamortecido}.\par
+%
+\begin{itemize}
+\item
+$i(t)=\frac{2 V_{DC} C e^{\frac{-tR}{2L}} sinh \left( \frac{t \sqrt{C(CR^2-4L)}}{2CL} \right)}{\sqrt{C(CR^2-RL)}}\times u(t)$\par
+\item
+$V_R(t)=R\times i(t)$\par
+\item
+$V_L(t)=L\dfrac{di(t)}{dt}$\par
+%
+\begin{minipage}{0.95\linewidth}
+\makebox[\linewidth]{
+\includegraphics[scale=0.75]{./Image/equacoes_1.png}
+}
+\end{minipage}\par
+%
+\item
+$V_C(t)=\frac{1}{C}\int_0^ti(t)$\par
+%
+\begin{minipage}{0.95\linewidth}
+\makebox[\linewidth]{
+\includegraphics[scale=0.75]{./Image/equacoes_2.png}
+}
+\end{minipage}\par
+%
+\end{itemize}
+%enum2
+\item
+Para \quad $C(C R^2-4 L)=0$ \quad (Ra\'{i}zes \index{Ra\'{i}zes} iguais \index{iguais})\quad Amortecimento \index{Amortecimento} cr\'{i}tico \index{cr\'{i}tico}.\par
+%
+\begin{itemize}
+\item
+$i(t)=\frac{V_{DC}}{L} \quad  t \quad e^{\frac{-R t}{2L}} \times u(t)$\par
+\item
+$V_R(t)=R\times i(t)$\par
+\item
+$V_L(t)=L\dfrac{di(t)}{dt}$\par
+%
+\begin{minipage}{0.95\linewidth}
+\makebox[\linewidth]{
+\includegraphics[scale=0.75]{./Image/equacoes_3.png}
+}
+\end{minipage}\par
+%
+\item
+$V_C(t)=\frac{1}{C}\int_0^ti(t)$\par
+\begin{minipage}{0.95\linewidth}
+\makebox[\linewidth]{
+\includegraphics[scale=0.75]{./Image/equacoes_4.png}
+}
+\end{minipage}\par
+%
+\end{itemize}
+%enum3
+\item
+Para \quad $C(C R^2-4 L)<0$ \quad (Ra\'{i}zes \index{Ra\'{i}zes} complexas \index{complexas}) \quad Amortecido \index{Amortecido}.\par
+%
+\begin{itemize}
+\item
+$i(t)=\frac{2 V_{DC} C e^{\frac{-tR}{2L}} sin \left( \frac{t \sqrt{-C(CR^2-4L)}}{2CL} \right)}{\sqrt{-C(CR^2-4L)}}\times u(t)$\par
+\item
+$V_R(t)=R\times i(t)$\par
+\item
+$V_L(t)=L\dfrac{di(t)}{dt}$\par
+%
+\begin{minipage}{0.95\linewidth}
+\makebox[\linewidth]{
+\includegraphics[scale=0.75]{./Image/equacoes_5.png}
+}
+\end{minipage}\par
+%
+\item
+$V_C(t)=\frac{1}{C}\int_0^ti(t)$\par
+%
+\begin{minipage}{0.95\linewidth}
+\makebox[\linewidth]{
+\includegraphics[scale=0.75]{./Image/equacoes_6.png}
+}
+\end{minipage}\par
+%
+\end{itemize}
+\end{enumerate}
+%
+\begin{itemize}
+\item
+$| \omega_n |=\sqrt{\frac{4 L-R^2 C}{4 L^2 C}}$\par
+\item
+%\overrightarrow{Z}
+$\overline{Z}=\sqrt{R^2 + (\omega_n L -\frac{1}{\omega_n C})^2}$\par
+\item
+$\phi_p=\arctan\left(\frac{\omega_n L - \frac{1}{\omega_n C}}{R}\right)$\par
+\item
+$\tau=\frac{2 L}{R}$\par
+\end{itemize}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{flushleft}
+{\bf Corrente \index{Corrente} Alternada condi\c{c}\~{o}es \index{Condi\c{c}\~{o}es} iniciais \index{iniciais} nulas \index{nulas}}.
+\end{flushleft}
+\quad Circuito \index{Circuito} $RLE$ em $C.A$:\par
+\begin{itemize}
+\item
+$i(t)=C_T\ e^{-\frac{R}{L}t}+\frac{V_{m\acute{a}x}}{\overline{Z}}\sin(\omega t + \alpha - \phi_p)-\frac{E}{R}$\newline
+$i(t)=C_T\ e^{-\frac{R}{L}t} + C_1 \cos (\omega t) + C_2 \sin(\omega t)-\frac{E}{R}$
+\item
+$I(\omega t)=C_T\ e^{-\frac{R}{L \omega}\omega t}+\frac{V_{m\acute{a}x}}{\overline{Z}}\sin(\omega t + \alpha - \phi_p)-\frac{E}{R}$
+\item
+$\overrightarrow{Z}=R+j\omega L$\\
+$\overline{Z}=\sqrt{R^2 + (\omega L)^2}$
+\item
+$\phi_p=\arctan(\frac{\omega L}{R})$
+\item
+$C_T=\frac{E}{R}-\frac{V_{m\acute{a}x}}{\overline{Z}}\sin(\alpha - \phi_p)$
+\item
+$C_T=\frac{V_{m\acute{a}x}}{R^2 + (\omega L)^2}(L \omega \cos(\alpha) - R \sin (\alpha))+\frac{E}{R}$
+\item
+$C_1=\frac{V_{m\acute{a}x}}{R^2 + (\omega L)^2}(R \sin (\alpha) - L \omega \cos(\alpha))$
+\item
+$C_2=\frac{V_{m\acute{a}x}}{R^2 + (\omega L)^2}(R \cos (\alpha) + L \omega \sin (\alpha))$
+%
+\end{itemize}
+%%%%%%%%%%%%%%%%%%%%%%%
