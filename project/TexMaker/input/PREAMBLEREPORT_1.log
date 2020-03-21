@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.25)  21 MAR 2020 11:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.25)  20 MAR 2020 00:00
 entering extended mode
-**"./OB project.tex"
-("OB project.tex"
+**./PREAMBLEREPORT_1.tex
+(PREAMBLEREPORT_1.tex
 LaTeX2e <2020-02-02> patch level 3
-L3 programming layer <2020-02-21> (input/PREAMBLEREPORT_1.tex
+L3 programming layer <2020-02-21>
 (/home/computa/.miktex/texmfs/install/tex/latex/base/report.cls
 Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
 (/home/computa/.miktex/texmfs/install/tex/latex/base/size12.clo
@@ -671,17 +671,18 @@ File: tikzlibrarypositioning.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \c@definition=\count290
 \c@notation=\count291
 \@indexfile=\write4
-\openout4 = `"OB project.idx"'.
+\openout4 = `PREAMBLEREPORT_1.idx'.
 
 
-Writing index file "OB project".idx
+Writing index file PREAMBLEREPORT_1.idx
 
 (/home/computa/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-23 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count292
 \l__pdf_internal_box=\box62
-) ("OB project.aux" (include/CAPAREPORT.aux))
-\openout1 = `"OB project.aux"'.
+)
+No file PREAMBLEREPORT_1.aux.
+\openout1 = `PREAMBLEREPORT_1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 165.
 LaTeX Font Info:    ... okay on input line 165.
@@ -697,7 +698,6 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 165.
 LaTeX Font Info:    ... okay on input line 165.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 165.
 LaTeX Font Info:    ... okay on input line 165.
-
 babelbib: Use citation-dependent languages in bibliography
 babelbib: Set bibliography fall-back language to portuguese
 (/home/computa/.miktex/texmfs/install/tex/latex/babelbib/portuguese.bdf
@@ -715,14 +715,14 @@ babelbib extension \btxifchangecaseoff added to \extrasportuguese
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(42.67912pt, 526.376pt, 28.45274pt)
+* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
 * v-part:(T,H,B)=(56.9055pt, 745.46222pt, 42.67912pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=526.376pt
+* \textwidth=540.60239pt
 * \textheight=745.46222pt
-* \oddsidemargin=-29.59087pt
-* \evensidemargin=-29.59087pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
 * \topmargin=-52.36449pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -760,226 +760,18 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 ) ABD: EveryShipout initializing macros)
-\openout2 = `./include/CAPAREPORT.aux'.
-
- (include/CAPAREPORT.tex
-<./image/capa/ISEP_marca_cor_grande.png, id=4, 730.6497pt x 278.2395pt>
-File: ./image/capa/ISEP_marca_cor_grande.png Graphic file (type png)
-<use ./image/capa/ISEP_marca_cor_grande.png>
-Package pdftex.def Info: ./image/capa/ISEP_marca_cor_grande.png  used on input 
-line 4.
-(pdftex.def)             Requested size: 438.3932pt x 166.94498pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
-
-
-(/home/computa/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
-
-
-(/home/computa/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
-
-
-{/home/computa/.miktex/texmfs/data/pdftex/config/pdftex.map} <./image/capa/ISEP
-_marca_cor_grande.png>]) ("OB project.toc")
-\tf@toc=\write5
-\openout5 = `"OB project.toc"'.
-
- [1
-
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 16--18
-
- []
-
-[1]
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
-
- []
-
-
-Overfull \hbox (0.71338pt too wide) in paragraph at lines 29--30
-[]\T1/cmr/m/n/12 Falar que o comportamento do individuo é diferente que em grup
-o, realçr que a verdadeira democracia
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--35
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--35
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 38--41
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--61
-
- []
-
-[1]
-Underfull \hbox (badness 10000) in paragraph at lines 62--63
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--66
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 69--72
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--76
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--81
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--83
-
- []
-
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--109
-
- []
-
-
-Overfull \hbox (42.67911pt too wide) in paragraph at lines 89--109
-[]$ 
- []
-
-
-Overfull \hbox (0.77525pt too wide) in paragraph at lines 127--127
-[]\T1/cmr/bx/n/17.28 Estudo da Cultura Organizacional segundo o Modelo Ogbonna
- []
-
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 138--159
-
- []
-
-[4] ("OB project.lof")
-\tf@lof=\write6
-\openout6 = `"OB project.lof"'.
-
- ("OB project.bbl" [5
-
-]
-babelbib: Using the BibTeX style's default font for `name'.
-babelbib: Using the BibTeX style's default font for `lastname'.
-babelbib: Using the BibTeX style's default font for `title'.
-babelbib: Using the BibTeX style's default font for `jtitle'.
-babelbib: Using the BibTeX style's default font for `etal'.
-babelbib: Using the BibTeX style's default font for `journal'.
-babelbib: Using the BibTeX style's default font for `volume'.
-babelbib: Using the BibTeX style's default font for `ISBN'.
-babelbib: Using the BibTeX style's default font for `ISSN'.
-babelbib: Using the BibTeX style's default font for `url'.
-babelbib: Using the BibTeX style's default font for `numeral'.
-) [6
-
-] [7] ("OB project.aux" (include/CAPAREPORT.aux)) ) 
+! Emergency stop.
+<*> ./PREAMBLEREPORT_1.tex
+                          
+*** (job aborted, no legal \end found)
+
+ 
 Here is how much of TeX's memory you used:
- 27319 strings out of 483473
- 659098 string characters out of 2966451
- 1029113 words of memory out of 3000000
- 41914 multiletter control sequences out of 15000+200000
- 550839 words of font info for 70 fonts, out of 3000000 for 9000
+ 27174 strings out of 483473
+ 656449 string characters out of 2966451
+ 1023599 words of memory out of 3000000
+ 41835 multiletter control sequences out of 15000+200000
+ 533400 words of font info for 26 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 63i,10n,72p,602b,417s stack positions out of 5000i,500n,10000p,200000b,50000s
- </home/computa/.miktex/texm
-fs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk> </home/computa/.miktex/
-texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0700.pk> </home/computa/.mik
-tex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0800.pk> </home/computa/
-.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1200.pk> </home/comp
-uta/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk> </home/
-computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1728.pk> </h
-ome/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk>
- </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200
-.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx
-2488.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/
-ecrm1440.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi
-600/ecti1440.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec
-/dpi600/ecrm2074.pk></home/computa/.miktex/texmfs/install/fonts/type1/public/am
-sfonts/cm/cmmi10.pfb></home/computa/.miktex/texmfs/install/fonts/type1/public/a
-msfonts/cm/cmmi12.pfb>
-Output written on "OB project.pdf" (10 pages, 184583 bytes).
-PDF statistics:
- 326 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 60i,1n,70p,423b,76s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!

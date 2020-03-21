@@ -1,0 +1,24 @@
+\begin{thebibliography}{1}
+  \providebibliographyfont{name}{}%
+  \providebibliographyfont{lastname}{}%
+  \providebibliographyfont{title}{\emph}%
+  \providebibliographyfont{jtitle}{\btxtitlefont}%
+  \providebibliographyfont{etal}{\emph}%
+  \providebibliographyfont{journal}{}%
+  \providebibliographyfont{volume}{}%
+  \providebibliographyfont{ISBN}{\MakeUppercase}%
+  \providebibliographyfont{ISSN}{\MakeUppercase}%
+  \providebibliographyfont{url}{\url}%
+  \providebibliographyfont{numeral}{}%
+  \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
+
+\expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
+\bibitem {book_1}
+\btxtitlefont {Probabilidades e estatística Volume 1}.
+\newblock \btxpublisherfont {McGraw-Hill}, 1990.
+
+\bibitem {book_2}
+\btxtitlefont {Probabilidades e Processos Estocásticos}.
+\newblock \btxpublisherfont {Universidade de Aveiro}, 2002.
+
+\end{thebibliography}
