@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.25)  22 MAR 2020 15:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.25)  22 MAR 2020 15:22
 entering extended mode
 **"./OB beamer.tex"
 ("OB beamer.tex"
@@ -1171,14 +1171,15 @@ Package hyperref Warning: Option `pdfauthor' has already been used,
 [4
 
 ]
-<./image/OB/CORGA_1.jpg, id=184, 924.45375pt x 511.9125pt>
-File: ./image/OB/CORGA_1.jpg Graphic file (type jpg)
-<use ./image/OB/CORGA_1.jpg>
-Package pdftex.def Info: ./image/OB/CORGA_1.jpg  used on input line 49.
-(pdftex.def)             Requested size: 92.45079pt x 51.19424pt.
+<./image/OB/Ogbonna & Harris.jpg, id=184, 1222.5675pt x 610.28pt>
+File: ./image/OB/Ogbonna & Harris.jpg Graphic file (type jpg)
+<use ./image/OB/Ogbonna & Harris.jpg>
+Package pdftex.def Info: ./image/OB/Ogbonna & Harris.jpg  used on input line 49
+.
+(pdftex.def)             Requested size: 305.64113pt x 152.56963pt.
  [5
 
- <./image/OB/CORGA_1.jpg>]
+ <./image/OB/Ogbonna & Harris.jpg>]
 LaTeX Font Info:    Trying to load font information for U+msa on input line 65.
 
 
@@ -1219,10 +1220,10 @@ Package rerunfilecheck Info: File `"OB beamer".out' has not changed.
 (rerunfilecheck)             Checksum: 4951A37E97F8D82B97A8E10547AE17FB;133.
  ) 
 Here is how much of TeX's memory you used:
- 34898 strings out of 483473
- 815364 string characters out of 2966451
+ 34899 strings out of 483473
+ 815453 string characters out of 2966451
  1203569 words of memory out of 3000000
- 49235 multiletter control sequences out of 15000+200000
+ 49236 multiletter control sequences out of 15000+200000
  542328 words of font info for 51 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
  61i,20n,77p,837b,764s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1230,7 +1231,7 @@ Here is how much of TeX's memory you used:
 00.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ec
 ss1728.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi60
 0/ecss0600.pk>
-Output written on "OB beamer.pdf" (6 pages, 135149 bytes).
+Output written on "OB beamer.pdf" (6 pages, 170131 bytes).
 PDF statistics:
  326 PDF objects out of 1000 (max. 8388607)
  16 named destinations out of 1000 (max. 500000)

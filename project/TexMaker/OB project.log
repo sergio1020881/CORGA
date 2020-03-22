@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.25)  21 MAR 2020 18:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.25)  22 MAR 2020 16:10
 entering extended mode
 **"./OB project.tex"
 ("OB project.tex"
@@ -683,20 +683,20 @@ File: l3backend-pdfmode.def 2020-02-23 L3 backend support: PDF mode
 ) ("OB project.aux" (include/CAPAREPORT.aux))
 \openout1 = `"OB project.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 166.
-LaTeX Font Info:    ... okay on input line 166.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 166.
-LaTeX Font Info:    ... okay on input line 166.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 166.
-LaTeX Font Info:    ... okay on input line 166.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 166.
-LaTeX Font Info:    ... okay on input line 166.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 166.
-LaTeX Font Info:    ... okay on input line 166.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 166.
-LaTeX Font Info:    ... okay on input line 166.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 166.
-LaTeX Font Info:    ... okay on input line 166.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 165.
+LaTeX Font Info:    ... okay on input line 165.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 165.
+LaTeX Font Info:    ... okay on input line 165.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 165.
+LaTeX Font Info:    ... okay on input line 165.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 165.
+LaTeX Font Info:    ... okay on input line 165.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 165.
+LaTeX Font Info:    ... okay on input line 165.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 165.
+LaTeX Font Info:    ... okay on input line 165.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 165.
+LaTeX Font Info:    ... okay on input line 165.
 
 babelbib: Use citation-dependent languages in bibliography
 babelbib: Set bibliography fall-back language to portuguese
@@ -1118,139 +1118,140 @@ Overfull \hbox (0.77525pt too wide) in paragraph at lines 245--245
 []\T1/cmr/bx/n/17.28 Estudo da Cultura Organizacional segundo o Modelo Ogbonna
  []
 
-<./image/OB/CORGA_1.jpg, id=43, 924.45375pt x 511.9125pt>
-File: ./image/OB/CORGA_1.jpg Graphic file (type jpg)
-<use ./image/OB/CORGA_1.jpg>
-Package pdftex.def Info: ./image/OB/CORGA_1.jpg  used on input line 250.
-(pdftex.def)             Requested size: 416.00034pt x 230.35849pt.
+<./image/OB/Ogbonna & Harris.jpg, id=43, 1222.5675pt x 610.28pt>
+File: ./image/OB/Ogbonna & Harris.jpg Graphic file (type jpg)
+<use ./image/OB/Ogbonna & Harris.jpg>
+Package pdftex.def Info: ./image/OB/Ogbonna & Harris.jpg  used on input line 25
+0.
+(pdftex.def)             Requested size: 366.77307pt x 183.0854pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 252--255
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 256--259
+Underfull \hbox (badness 10000) in paragraph at lines 257--260
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--262
+Underfull \hbox (badness 10000) in paragraph at lines 261--264
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--265
+Underfull \hbox (badness 10000) in paragraph at lines 265--267
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 266--267
+Underfull \hbox (badness 10000) in paragraph at lines 268--270
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--269
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 270--271
+Underfull \hbox (badness 10000) in paragraph at lines 273--274
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--273
-
- []
-
-[6 <./image/OB/CORGA_1.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 274--275
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--277
+Underfull \hbox (badness 10000) in paragraph at lines 277--278
+
+ []
+
+[6 <./image/OB/Ogbonna & Harris.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 279--280
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 278--279
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 280--281
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 282--283
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 284--285
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--287
+Underfull \hbox (badness 10000) in paragraph at lines 289--290
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--289
+Underfull \hbox (badness 10000) in paragraph at lines 291--292
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 290--291
+Underfull \hbox (badness 10000) in paragraph at lines 293--294
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 292--293
+Underfull \hbox (badness 10000) in paragraph at lines 295--296
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 294--295
+Underfull \hbox (badness 10000) in paragraph at lines 297--298
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 296--297
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 298--306
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 307--312
+Underfull \hbox (badness 10000) in paragraph at lines 303--311
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 313--316
+Underfull \hbox (badness 10000) in paragraph at lines 312--317
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--321
 
  []
 
 [7] [8]
-Underfull \hbox (badness 10000) in paragraph at lines 323--344
+Underfull \hbox (badness 10000) in paragraph at lines 328--349
 
  []
 
 
-Overfull \hbox (1.32977pt too wide) in paragraph at lines 345--346
+Overfull \hbox (1.32977pt too wide) in paragraph at lines 350--351
 []\T1/cmr/m/n/12 A actividade comportamental consiste em lidar com pessoas, com
 unicar instruções e receber feedback,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 345--346
+Underfull \hbox (badness 10000) in paragraph at lines 350--351
 
  []
 
@@ -1272,14 +1273,20 @@ babelbib: Using the BibTeX style's default font for `ISBN'.
 babelbib: Using the BibTeX style's default font for `ISSN'.
 babelbib: Using the BibTeX style's default font for `url'.
 babelbib: Using the BibTeX style's default font for `numeral'.
+
+Underfull \hbox (badness 1371) in paragraph at lines 33--35
+[]\T1/cmr/m/it/12 ORGANIZATIONS: BEHAVIOR, STRUCTURE, PROCESSES, FOURTEENTH EDI
+TION\T1/cmr/m/n/12 .
+ []
+
 ) [11
 
 ] [12] ("OB project.aux" (include/CAPAREPORT.aux)) ) 
 Here is how much of TeX's memory you used:
- 27327 strings out of 483473
- 659253 string characters out of 2966451
- 1029113 words of memory out of 3000000
- 41919 multiletter control sequences out of 15000+200000
+ 27339 strings out of 483473
+ 659445 string characters out of 2966451
+ 1029154 words of memory out of 3000000
+ 41931 multiletter control sequences out of 15000+200000
  550839 words of font info for 70 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
  63i,10n,72p,602b,417s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1299,9 +1306,9 @@ i600/ecti1440.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/e
 c/dpi600/ecrm2074.pk></home/computa/.miktex/texmfs/install/fonts/type1/public/a
 msfonts/cm/cmmi10.pfb></home/computa/.miktex/texmfs/install/fonts/type1/public/
 amsfonts/cm/cmmi12.pfb>
-Output written on "OB project.pdf" (15 pages, 263274 bytes).
+Output written on "OB project.pdf" (15 pages, 312178 bytes).
 PDF statistics:
- 349 PDF objects out of 1000 (max. 8388607)
+ 384 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
