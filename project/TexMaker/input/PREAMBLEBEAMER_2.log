@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.25)  22 MAR 2020 15:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.25)  22 MAR 2020 14:55
 entering extended mode
-**"./OB beamer.tex"
-("OB beamer.tex"
+**./PREAMBLEBEAMER_2.tex
+(PREAMBLEBEAMER_2.tex
 LaTeX2e <2020-02-02> patch level 3
-L3 programming layer <2020-02-21> (input/PREAMBLEBEAMER_2.tex
+L3 programming layer <2020-02-21>
 (/home/computa/.miktex/texmfs/install/tex/latex/beamer/beamer.cls
 Document Class: beamer 2019/09/29 v3.57 A class for typesetting presentations
 (/home/computa/.miktex/texmfs/install/tex/latex/beamer/beamerbasemodes.sty
@@ -100,8 +100,8 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@dimlist=\toks15
 
 (/home/computa/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg))
-(/home/computa/.miktex/texmfs/install/tex/latex/base/size12.clo
-File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+(/home/computa/.miktex/texmfs/install/tex/latex/base/size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
 (/home/computa/.miktex/texmfs/install/tex/latex/pgf/basiclayer/pgfcore.sty
 (/home/computa/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
@@ -710,47 +710,7 @@ Package babel Warning: No hyphenation patterns were preloaded for
 (babel)                preloaded for \language=0 instead on input line 55.
 
 Package babel Info: Making " an active character on input line 145.
-)) (/home/computa/.miktex/texmfs/install/tex/latex/babelbib/babelbib.sty
-Package: babelbib 2019/03/11 v1.32 babelbib: multilingual bibliographies (HH)
-\c@btxromaniannumeral=\count312
-)
-(/home/computa/.miktex/texmfs/install/tex/latex/float/float.sty
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count313
-\float@exts=\toks45
-\float@box=\box73
-\@float@everytoks=\toks46
-\@floatcapt=\box74
-)
-(/home/computa/.miktex/texmfs/install/tex/latex/colortbl/colortbl.sty
-Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
-
-(/home/computa/.miktex/texmfs/install/tex/latex/tools/array.sty
-Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
-\col@sep=\dimen278
-\ar@mcellbox=\box75
-\extrarowheight=\dimen279
-\NC@list=\toks47
-\extratabsurround=\skip63
-\backup@length=\skip64
-\ar@cellbox=\box76
-)
-\everycr=\toks48
-\minrowclearance=\skip65
-)
-(/home/computa/.miktex/texmfs/install/tex/latex/multirow/multirow.sty
-Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
-\multirow@colwidth=\skip66
-\multirow@cntb=\count314
-\multirow@dima=\skip67
-\bigstrutjot=\dimen280
-)
-(/home/computa/.miktex/texmfs/install/tex/latex/tools/verbatim.sty
-Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks49
-\verbatim@line=\toks50
-\verbatim@in@stream=\read4
-)
+))
 (/home/computa/.miktex/texmfs/install/tex/latex/beamer/beamerthemeFrankfurt.sty
 
 (/home/computa/.miktex/texmfs/install/tex/latex/beamer/beamerouterthemesmoothba
@@ -760,14 +720,374 @@ sty)
 (/home/computa/.miktex/texmfs/install/tex/latex/beamer/beamercolorthemeorchid.s
 ty)
 (/home/computa/.miktex/texmfs/install/tex/latex/beamer/beamercolorthemewhale.st
-y)) (/home/computa/.miktex/texmfs/install/tex/latex/pgf/frontendlayer/tikz.sty
+y))
+
+! LaTeX Error: Environment comment undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.75 \begin{comment}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.76 \setlistdepth
+                  {12}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.76 \setlistdepth{1
+                    2}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.77 \newlist
+             {enumitem}{enumerate}{12}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.78 \setlist
+             [enumitem,1]{label=\roman*)}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \c@* 
+l.78 \setlist[enumitem,1]{label=\roman*
+                                       )}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+l.79 \setlist
+             [enumitem,2]{label=\alph*)}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \c@* 
+l.79 \setlist[enumitem,2]{label=\alph*
+                                      )}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+l.80 \setlist
+             [enumitem,3]{label=\arabic*)}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \c@* 
+l.80 \setlist[enumitem,3]{label=\arabic*
+                                        )}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+l.81 \setlist
+             [enumitem,4]{label=(\roman*)}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \c@* 
+l.81 \setlist[enumitem,4]{label=(\roman*
+                                        )}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+l.82 \setlist
+             [enumitem,5]{label=(\alph*)}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \c@* 
+l.82 \setlist[enumitem,5]{label=(\alph*
+                                       )}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+l.83 \setlist
+             [enumitem,6]{label=(\arabic*)}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \c@* 
+l.83 \setlist[enumitem,6]{label=(\arabic*
+                                         )}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+l.84 \setlist
+             [enumitem,7]{label=\roman*)}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \c@* 
+l.84 \setlist[enumitem,7]{label=\roman*
+                                       )}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+l.85 \setlist
+             [enumitem,8]{label=\alph*)}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \c@* 
+l.85 \setlist[enumitem,8]{label=\alph*
+                                      )}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+l.86 \setlist
+             [enumitem,9]{label=\arabic*)}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \c@* 
+l.86 \setlist[enumitem,9]{label=\arabic*
+                                        )}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+l.87 \setlist
+             [enumitem,10]{label=(\roman*)}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \c@* 
+l.87 \setlist[enumitem,10]{label=(\roman*
+                                         )}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+l.88 \setlist
+             [enumitem,11]{label=(\alph*)}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \c@* 
+l.88 \setlist[enumitem,11]{label=(\alph*
+                                        )}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+l.89 \setlist
+             [enumitem,12]{label=(\arabic*)}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \c@* 
+l.89 \setlist[enumitem,12]{label=(\arabic*
+                                          )}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+
+! LaTeX Error: \begin{document} ended by \end{comment}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90 \end{comment}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment comment undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.94 \begin{comment}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Command \labelitemi undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.95 \renewcommand{\labelitemi}
+                               {$\bullet$}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Command \labelitemii undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.96 \renewcommand{\labelitemii}
+                                {$\cdot$}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Command \labelitemiii undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.97 \renewcommand{\labelitemiii}
+                                 {$\diamond$}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Command \labelitemiv undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98 \renewcommand{\labelitemiv}
+                                {$\ast$}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{comment}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.99 \end{comment}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment comment undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.102 \begin{comment}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+(/home/computa/.miktex/texmfs/install/tex/latex/pgf/frontendlayer/tikz.sty
 (/home/computa/.miktex/texmfs/install/tex/latex/pgf/basiclayer/pgf.sty
 Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
 
 (/home/computa/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmoduleshapes.c
 ode.tex
 File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfnodeparttextbox=\box77
+\pgfnodeparttextbox=\box73
 )
 (/home/computa/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmoduleplot.cod
 e.tex
@@ -776,8 +1096,8 @@ File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 (/home/computa/.miktex/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-versi
 on-0-65.sty
 Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@nodesepstart=\dimen281
-\pgf@nodesepend=\dimen282
+\pgf@nodesepstart=\dimen278
+\pgf@nodesepend=\dimen279
 )
 (/home/computa/.miktex/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-versi
 on-1-18.sty
@@ -791,10 +1111,10 @@ x)) (/home/computa/.miktex/texmfs/install/tex/latex/pgf/math/pgfmath.sty
 (/home/computa/.miktex/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
 (/home/computa/.miktex/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen283
-\pgffor@skip=\dimen284
-\pgffor@stack=\toks51
-\pgffor@toks=\toks52
+\pgffor@iter=\dimen280
+\pgffor@skip=\dimen281
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
 ))
 (/home/computa/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/tikz.c
 ode.tex
@@ -803,34 +1123,34 @@ Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
 (/home/computa/.miktex/texmfs/install/tex/generic/pgf/libraries/pgflibraryploth
 andlers.code.tex
 File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@plot@mark@count=\count315
-\pgfplotmarksize=\dimen285
+\pgf@plot@mark@count=\count312
+\pgfplotmarksize=\dimen282
 )
-\tikz@lastx=\dimen286
-\tikz@lasty=\dimen287
-\tikz@lastxsaved=\dimen288
-\tikz@lastysaved=\dimen289
-\tikz@lastmovetox=\dimen290
-\tikz@lastmovetoy=\dimen291
-\tikzleveldistance=\dimen292
-\tikzsiblingdistance=\dimen293
-\tikz@figbox=\box78
-\tikz@figbox@bg=\box79
-\tikz@tempbox=\box80
-\tikz@tempbox@bg=\box81
-\tikztreelevel=\count316
-\tikznumberofchildren=\count317
-\tikznumberofcurrentchild=\count318
-\tikz@fig@count=\count319
+\tikz@lastx=\dimen283
+\tikz@lasty=\dimen284
+\tikz@lastxsaved=\dimen285
+\tikz@lastysaved=\dimen286
+\tikz@lastmovetox=\dimen287
+\tikz@lastmovetoy=\dimen288
+\tikzleveldistance=\dimen289
+\tikzsiblingdistance=\dimen290
+\tikz@figbox=\box74
+\tikz@figbox@bg=\box75
+\tikz@tempbox=\box76
+\tikz@tempbox@bg=\box77
+\tikztreelevel=\count313
+\tikznumberofchildren=\count314
+\tikznumberofcurrentchild=\count315
+\tikz@fig@count=\count316
 
 (/home/computa/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmodulematrix.c
 ode.tex
 File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfmatrixcurrentrow=\count320
-\pgfmatrixcurrentcolumn=\count321
-\pgf@matrix@numberofcolumns=\count322
+\pgfmatrixcurrentrow=\count317
+\pgfmatrixcurrentcolumn=\count318
+\pgf@matrix@numberofcolumns=\count319
 )
-\tikz@expandcount=\count323
+\tikz@expandcount=\count320
 
 (/home/computa/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librar
 ies/tikzlibrarytopaths.code.tex
@@ -847,10 +1167,10 @@ File: tikzlibrarycalc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 (/home/computa/.miktex/texmfs/install/tex/generic/pgf/libraries/pgflibraryarrow
 s.meta.code.tex
 File: pgflibraryarrows.meta.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfarrowinset=\dimen294
-\pgfarrowlength=\dimen295
-\pgfarrowwidth=\dimen296
-\pgfarrowlinewidth=\dimen297
+\pgfarrowinset=\dimen291
+\pgfarrowlength=\dimen292
+\pgfarrowwidth=\dimen293
+\pgfarrowlinewidth=\dimen294
 )
 (/home/computa/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librar
 ies/tikzlibrarybending.code.tex
@@ -863,18 +1183,18 @@ File: pgfmodulebending.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 (/home/computa/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmodulenonlinea
 rtransformations.code.tex
 File: pgfmodulenonlineartransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgftransformnonlinearflatness=\dimen298
+\pgftransformnonlinearflatness=\dimen295
 )
 (/home/computa/.miktex/texmfs/install/tex/generic/pgf/libraries/pgflibrarycurvi
 linear.code.tex
 File: pgflibrarycurvilinear.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@curvilinear@time@a=\dimen299
-\pgf@curvilinear@length@a=\dimen300
-\pgf@curvilinear@length@b=\dimen301
-\pgf@curvilinear@length@c=\dimen302
-\pgf@curvilinear@length@d=\dimen303
+\pgf@curvilinear@time@a=\dimen296
+\pgf@curvilinear@length@a=\dimen297
+\pgf@curvilinear@length@b=\dimen298
+\pgf@curvilinear@length@c=\dimen299
+\pgf@curvilinear@length@d=\dimen300
 )
-\pgf@arrows@the@rigidity=\dimen304
+\pgf@arrows@the@rigidity=\dimen301
 ))
 (/home/computa/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librar
 ies/tikzlibraryfpu.code.tex
@@ -882,20 +1202,20 @@ ies/tikzlibraryfpu.code.tex
 ode.tex))
 (/home/computa/.miktex/texmfs/install/tex/generic/circuitikz/pgfcirc.defines.te
 x
-\pgf@circ@count@a=\count324
-\pgf@circ@count@b=\count325
-\pgf@circ@count@c=\count326
-\pgf@circ@res@up=\dimen305
-\pgf@circ@res@down=\dimen306
-\pgf@circ@res@zero=\dimen307
-\pgf@circ@res@left=\dimen308
-\pgf@circ@res@right=\dimen309
-\pgf@circ@res@other=\dimen310
-\pgf@circ@res@step=\dimen311
-\pgf@circ@res@temp=\dimen312
-\pgfstartlinewidth=\dimen313
-\pgf@circ@Rlen=\dimen314
-\pgf@circ@scaled@Rlen=\dimen315
+\pgf@circ@count@a=\count321
+\pgf@circ@count@b=\count322
+\pgf@circ@count@c=\count323
+\pgf@circ@res@up=\dimen302
+\pgf@circ@res@down=\dimen303
+\pgf@circ@res@zero=\dimen304
+\pgf@circ@res@left=\dimen305
+\pgf@circ@res@right=\dimen306
+\pgf@circ@res@other=\dimen307
+\pgf@circ@res@step=\dimen308
+\pgf@circ@res@temp=\dimen309
+\pgfstartlinewidth=\dimen310
+\pgf@circ@Rlen=\dimen311
+\pgf@circ@scaled@Rlen=\dimen312
 )
 (/home/computa/.miktex/texmfs/install/tex/generic/circuitikz/pgfcircutils.tex)
 (/home/computa/.miktex/texmfs/install/tex/generic/circuitikz/pgfcircshapes.tex)
@@ -906,7 +1226,7 @@ ex)
 )
 (/home/computa/.miktex/texmfs/install/tex/generic/circuitikz/pgfcirctripoles.te
 x
-\pgf@circ@res@count=\count327
+\pgf@circ@res@count=\count324
 )
 (/home/computa/.miktex/texmfs/install/tex/generic/circuitikz/pgfcircquadpoles.t
 ex)
@@ -945,7 +1265,7 @@ File: tikzlibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 (/home/computa/.miktex/texmfs/install/tex/generic/pgf/libraries/pgflibraryarrow
 s.code.tex
 File: pgflibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\arrowsize=\dimen316
+\arrowsize=\dimen313
 ))
 (/home/computa/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librar
 ies/tikzlibrarytrees.code.tex
@@ -955,35 +1275,43 @@ File: tikzlibrarytrees.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ies/tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-\@indexfile=\write5
-\openout5 = `"OB beamer.idx"'.
 
+! LaTeX Error: \begin{document} ended by \end{comment}.
 
-Writing index file "OB beamer".idx
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.137 \end{comment}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 
 (/home/computa/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-23 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count328
-\l__pdf_internal_box=\box82
-) ("OB beamer.aux" (include/CAPABEAMER.aux))
-\openout1 = `"OB beamer.aux"'.
+\l__kernel_color_stack_int=\count325
+\l__pdf_internal_box=\box78
+) (PREAMBLEBEAMER_2.aux)
+\openout1 = `PREAMBLEBEAMER_2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 172.
+LaTeX Font Info:    ... okay on input line 172.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1004,12 +1332,12 @@ LaTeX Font Info:    ... okay on input line 135.
 * \topmargin=-72.26999pt
 * \headheight=14.22636pt
 * \headsep=0.0pt
-* \topskip=12.0pt
+* \topskip=11.0pt
 * \footskip=14.22636pt
 * \marginparwidth=4.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1021,25 +1349,25 @@ LaTeX Font Info:    ... okay on input line 135.
 
 (/home/computa/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count329
-\scratchdimen=\dimen317
-\scratchbox=\box83
-\nofMPsegments=\count330
-\nofMParguments=\count331
-\everyMPshowfont=\toks53
-\MPscratchCnt=\count332
-\MPscratchDim=\dimen318
-\MPnumerator=\count333
-\makeMPintoPDFobject=\count334
-\everyMPtoPDFconversion=\toks54
+\scratchcounter=\count326
+\scratchdimen=\dimen314
+\scratchbox=\box79
+\nofMPsegments=\count327
+\nofMParguments=\count328
+\everyMPshowfont=\toks47
+\MPscratchCnt=\count329
+\MPscratchDim=\dimen315
+\MPnumerator=\count330
+\makeMPintoPDFobject=\count331
+\everyMPtoPDFconversion=\toks48
 )
 (/home/computa/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 ) ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box84
-Package hyperref Info: Link coloring OFF on input line 135.
+\AtBeginShipoutBox=\box80
+Package hyperref Info: Link coloring OFF on input line 172.
 
 (/home/computa/.miktex/texmfs/install/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1051,73 +1379,73 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 .sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count335
+\c@section@level=\count332
 )
-LaTeX Info: Redefining \ref on input line 135.
-LaTeX Info: Redefining \pageref on input line 135.
-LaTeX Info: Redefining \nameref on input line 135.
- ("OB beamer.out") ("OB beamer.out")
-\@outlinefile=\write6
-\openout6 = `"OB beamer.out"'.
+LaTeX Info: Redefining \ref on input line 172.
+LaTeX Info: Redefining \pageref on input line 172.
+LaTeX Info: Redefining \nameref on input line 172.
+ (PREAMBLEBEAMER_2.out) (PREAMBLEBEAMER_2.out)
+\@outlinefile=\write5
+\openout5 = `PREAMBLEBEAMER_2.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 135.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 172.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 135.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 172.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 135.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 135.
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 172.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 172.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 135.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 172.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 135.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 135.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 172.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 172.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 135.
+(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 172.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 135.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 135.
+(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 172.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 172.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 135.
+(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 172.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 135.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 135.
+(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 172.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 172.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 135.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 172.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 135.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 172.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 135.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 172.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 135.
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 172.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 135.
+(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 172.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 135.
+(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 172.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 135.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 172.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 135.
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 172.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 135.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 135.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 172.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 172.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `normal' on input line 13
-5.
+(Font)              `pureletters' in the math version `normal' on input line 17
+2.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 13
-5.
+(Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 17
+2.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `bold' on input line 135.
+(Font)              `pureletters' in the math version `bold' on input line 172.
 
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 13
-5.
+(Font)                  T1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 17
+2.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 135.
+ut line 172.
 
 (/home/computa/.miktex/texmfs/install/tex/latex/translator/translator-basic-dic
 tionary-English.dict
@@ -1143,96 +1471,20 @@ Dictionary: translator-numbers-dictionary, Language: English
 ictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-babelbib: Use citation-dependent languages in bibliography
-babelbib: Set bibliography fall-back language to portuguese
-(/home/computa/.miktex/texmfs/install/tex/latex/babelbib/portuguese.bdf
-File: portuguese.bdf 2019/03/11 v1.32 babelbib: multilingual bibliographies (HH
+No file PREAMBLEBEAMER_2.nav.
 )
+! Emergency stop.
+<*> ./PREAMBLEBEAMER_2.tex
+                          
+*** (job aborted, no legal \end found)
 
-babelbib extension \bibsportuguese added to \extrasportuguese
-babelbib extension \btxifchangecaseoff added to \extrasportuguese
-) ("OB beamer.nav"))
-\openout2 = `./include/CAPABEAMER.aux'.
-
- (include/CAPABEAMER.tex
-
-Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 3.
-
-) [1{/home/computa/.miktex/texmfs/data/pdftex/config/pdftex.map}
-
-
-
-] [2
-
-] [3
-
-]
-[4
-
-]
-<./image/OB/CORGA_1.jpg, id=184, 924.45375pt x 511.9125pt>
-File: ./image/OB/CORGA_1.jpg Graphic file (type jpg)
-<use ./image/OB/CORGA_1.jpg>
-Package pdftex.def Info: ./image/OB/CORGA_1.jpg  used on input line 49.
-(pdftex.def)             Requested size: 92.45079pt x 51.19424pt.
- [5
-
- <./image/OB/CORGA_1.jpg>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 65.
-
-
-(/home/computa/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 65.
-
-
-(/home/computa/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 65.
-
-(/home/computa/.miktex/texmfs/install/tex/latex/sansmathaccent/ot1mathkerncmss.
-fd
-File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
-thkerncmss.
-) [6
-
-]
-\tf@nav=\write7
-\openout7 = `"OB beamer.nav"'.
-
-\tf@toc=\write8
-\openout8 = `"OB beamer.toc"'.
-
-\tf@snm=\write9
-\openout9 = `"OB beamer.snm"'.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 70.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 70.
- ("OB beamer.aux" (include/CAPABEAMER.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 70.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 70.
-Package rerunfilecheck Info: File `"OB beamer".out' has not changed.
-(rerunfilecheck)             Checksum: 4951A37E97F8D82B97A8E10547AE17FB;133.
- ) 
+ 
 Here is how much of TeX's memory you used:
- 34898 strings out of 483473
- 815364 string characters out of 2966451
- 1203569 words of memory out of 3000000
- 49235 multiletter control sequences out of 15000+200000
- 542328 words of font info for 51 fonts, out of 3000000 for 9000
+ 33981 strings out of 483473
+ 799055 string characters out of 2966451
+ 1170549 words of memory out of 3000000
+ 48413 multiletter control sequences out of 15000+200000
+ 534488 words of font info for 28 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 61i,20n,77p,837b,764s stack positions out of 5000i,500n,10000p,200000b,50000s
- </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecss12
-00.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ec
-ss1728.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi60
-0/ecss0600.pk>
-Output written on "OB beamer.pdf" (6 pages, 135149 bytes).
-PDF statistics:
- 326 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
- 114 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 58i,9n,75p,809b,7344s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!

@@ -1,4 +1,5 @@
 \babel@toc {portuguese}{}
-\beamer@sectionintoc {1}{Introduction }{2}{0}{1}
+\babel@toc {portuguese}{}
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
 \beamer@sectionintoc {2}{Data}{3}{0}{2}
 \beamer@sectionintoc {3}{asdfasdfasdf}{4}{0}{3}
