@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.25)  23 MAR 2020 11:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.25)  23 MAR 2020 15:59
 entering extended mode
 **"./OB project.tex"
 ("OB project.tex"
@@ -680,7 +680,14 @@ Writing index file "OB project".idx
 File: l3backend-pdfmode.def 2020-02-23 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count292
 \l__pdf_internal_box=\box62
-) ("OB project.aux" (include/CAPAREPORT.aux))
+) ("OB project.aux" (include/CAPAREPORT.aux)
+
+LaTeX Warning: Label `grafico 1' multiply defined.
+
+
+LaTeX Warning: Label `grafico 1' multiply defined.
+
+)
 \openout1 = `"OB project.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 165.
@@ -1003,27 +1010,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 173--174
  []
 
 
+Overfull \hbox (6.74225pt too wide) in paragraph at lines 178--179
+\T1/cmr/m/n/12 através da imposição das suas crenças e supposições no grupo.A a
+dopção das crenças, valores e supposições
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 178--179
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 180--181
+Overfull \hbox (1.65744pt too wide) in paragraph at lines 180--181
+[]\T1/cmr/m/n/12 Aqui destingue-se dois tipos de lidere os transacionais e os d
+e transfromação.culture affects leadership
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--185
+Underfull \hbox (badness 10000) in paragraph at lines 185--187
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--203
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 204--205
+Underfull \hbox (badness 10000) in paragraph at lines 201--205
 
  []
 
@@ -1063,155 +1077,147 @@ Underfull \hbox (badness 10000) in paragraph at lines 218--219
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--225
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 226--227
+Underfull \hbox (badness 10000) in paragraph at lines 222--227
 
  []
 
 
-Overfull \hbox (0.77525pt too wide) in paragraph at lines 231--231
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
+
+ []
+
+
+Overfull \hbox (0.77525pt too wide) in paragraph at lines 233--233
 []\T1/cmr/bx/n/17.28 Estudo da Cultura Organizacional segundo o Modelo Ogbonna
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 234--235
+Overfull \hbox (15.16245pt too wide) in paragraph at lines 237--238
+\T1/cmr/m/n/12 Inglatera atraves de os procedimentos cientificos e estatisticos
+ na analise dos dados obtidos por questionarios
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
 
  []
 
-<./image/OB/Ogbonna & Harris.jpg, id=43, 1222.5675pt x 610.28pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+
+ []
+
+
+Overfull \hbox (12.6908pt too wide) in paragraph at lines 241--242
+[]\T1/cmr/m/n/12 Os liders tem sido vistos ha muito tempo como a primeira influ
+encia na criação da cultura organizacional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+
+ []
+
+<./image/OB/Culturas.jpg, id=43, 891.33pt x 558.085pt>
+File: ./image/OB/Culturas.jpg Graphic file (type jpg)
+<use ./image/OB/Culturas.jpg>
+Package pdftex.def Info: ./image/OB/Culturas.jpg  used on input line 256.
+(pdftex.def)             Requested size: 534.80214pt x 334.85359pt.
+
+Overfull \hbox (8.42613pt too wide) in paragraph at lines 256--256
+ [][] 
+ []
+
+[6]
+<./image/OB/Leadership.jpg, id=48, 1072.005pt x 559.08875pt>
+File: ./image/OB/Leadership.jpg Graphic file (type jpg)
+<use ./image/OB/Leadership.jpg>
+Package pdftex.def Info: ./image/OB/Leadership.jpg  used on input line 276.
+(pdftex.def)             Requested size: 536.00119pt x 279.54369pt.
+
+Overfull \hbox (9.62518pt too wide) in paragraph at lines 276--276
+ [][] 
+ []
+
+[7 <./image/OB/Culturas.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 292--298
+
+ []
+
+<./image/OB/Ogbonna & Harris.jpg, id=52, 1222.5675pt x 610.28pt>
 File: ./image/OB/Ogbonna & Harris.jpg Graphic file (type jpg)
 <use ./image/OB/Ogbonna & Harris.jpg>
-Package pdftex.def Info: ./image/OB/Ogbonna & Harris.jpg  used on input line 24
-0.
+Package pdftex.def Info: ./image/OB/Ogbonna & Harris.jpg  used on input line 30
+1.
 (pdftex.def)             Requested size: 366.77307pt x 183.0854pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 247--250
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 251--254
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 255--257
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 258--260
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 261--262
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 263--264
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 265--266
-
- []
-
-[6 <./image/OB/Ogbonna & Harris.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 267--268
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 269--270
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 271--272
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 273--274
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 275--276
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 277--278
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 279--280
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 281--282
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 283--284
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 285--286
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--288
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 289--290
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 291--292
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 293--301
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 302--307
-
- []
-
-[7]
 Underfull \hbox (badness 10000) in paragraph at lines 308--311
 
  []
 
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 318--339
+[8 <./image/OB/Leadership.jpg> <./image/OB/Ogbonna & Harris.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 312--315
 
  []
 
 
-Overfull \hbox (1.32977pt too wide) in paragraph at lines 340--341
-[]\T1/cmr/m/n/12 A actividade comportamental consiste em lidar com pessoas, com
-unicar instruções e receber feedback,
+Underfull \hbox (badness 10000) in paragraph at lines 316--318
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--323
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--337
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+
  []
 
 
@@ -1219,41 +1225,189 @@ Underfull \hbox (badness 10000) in paragraph at lines 340--341
 
  []
 
-[9] ("OB project.lof")
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--343
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--345
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--347
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--349
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 350--351
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 352--353
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--355
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--364
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--370
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 371--374
+
+ []
+
+
+Overfull \hbox (0.93958pt too wide) in paragraph at lines 375--376
+[]\T1/cmr/m/n/12 In their well-known and prestigious study on the relationship 
+between leadership style , organizational
+ []
+
+
+Overfull \hbox (5.50787pt too wide) in paragraph at lines 375--376
+\T1/cmr/m/n/12 siveness) to innovative and competitive cultures, they associate
+d a rather internal orientation (integration,
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 381--382
+
+ []
+
+
+Overfull \hbox (1.32977pt too wide) in paragraph at lines 383--384
+[]\T1/cmr/m/n/12 A actividade comportamental consiste em lidar com pessoas, com
+unicar instruções e receber feedback,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--384
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 386--387
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 388--389
+
+ []
+
+
+Overfull \hbox (15.88448pt too wide) in paragraph at lines 390--391
+\T1/cmr/m/n/12 the majority of published studies: personvocation fit, personj
+ob fit, personorganization fit, persongroup
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 390--391
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 392--393
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--397
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--397
+
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 398--399
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 400--401
+
+ []
+
+[12] ("OB project.lof")
 \tf@lof=\write6
 \openout6 = `"OB project.lof"'.
 
+ ("OB project.bbl" [13
 
-No file "OB project".bbl.
-[10
+]
+babelbib: Using the BibTeX style's default font for `name'.
+babelbib: Using the BibTeX style's default font for `lastname'.
+babelbib: Using the BibTeX style's default font for `title'.
+babelbib: Using the BibTeX style's default font for `jtitle'.
+babelbib: Using the BibTeX style's default font for `etal'.
+babelbib: Using the BibTeX style's default font for `journal'.
+babelbib: Using the BibTeX style's default font for `volume'.
+babelbib: Using the BibTeX style's default font for `ISBN'.
+babelbib: Using the BibTeX style's default font for `ISSN'.
+babelbib: Using the BibTeX style's default font for `url'.
+babelbib: Using the BibTeX style's default font for `numeral'.
 
-] [11] ("OB project.aux" (include/CAPAREPORT.aux)) ) 
+Underfull \hbox (badness 1371) in paragraph at lines 33--35
+[]\T1/cmr/m/it/12 ORGANIZATIONS: BEHAVIOR, STRUCTURE, PROCESSES, FOURTEENTH EDI
+TION\T1/cmr/m/n/12 .
+ []
+
+) [14
+
+] [15] ("OB project.aux" (include/CAPAREPORT.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 27317 strings out of 483473
- 659158 string characters out of 2966451
- 1029113 words of memory out of 3000000
- 41912 multiletter control sequences out of 15000+200000
- 550155 words of font info for 69 fonts, out of 3000000 for 9000
+ 27353 strings out of 483473
+ 659790 string characters out of 2966451
+ 1031152 words of memory out of 3000000
+ 41941 multiletter control sequences out of 15000+200000
+ 551553 words of font info for 72 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 63i,10n,72p,517b,312s stack positions out of 5000i,500n,10000p,200000b,50000s
- </home/computa/.miktex/tex
-mfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk> </home/computa/.miktex
-/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0700.pk> </home/computa/.mi
-ktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0800.pk> </home/computa
-/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk> </home/com
-puta/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1728.pk> </home
-/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </
-home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk
-> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx248
-8.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecr
-m1440.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600
-/ecti1440.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dp
-i600/ecrm2074.pk></home/computa/.miktex/texmfs/install/fonts/type1/public/amsfo
-nts/cm/cmmi10.pfb></home/computa/.miktex/texmfs/install/fonts/type1/public/amsf
-onts/cm/cmmi12.pfb>
-Output written on "OB project.pdf" (14 pages, 285688 bytes).
+ 63i,10n,72p,2054b,432s stack positions out of 5000i,500n,10000p,200000b,50000s
+ </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm10
+00.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ec
+rm0700.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi60
+0/ecrm0800.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/d
+pi600/tcti1200.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/
+ec/dpi600/ecti1200.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknap
+pen/ec/dpi600/tcrm1200.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/j
+knappen/ec/dpi600/ecbx1440.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfo
+ur/jknappen/ec/dpi600/ecbx1728.pk> </home/computa/.miktex/texmfs/data/fonts/pk/
+ljfour/jknappen/ec/dpi600/ecbx1200.pk> </home/computa/.miktex/texmfs/data/fonts
+/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk> </home/computa/.miktex/texmfs/data/f
+onts/pk/ljfour/jknappen/ec/dpi600/ecbx2488.pk> </home/computa/.miktex/texmfs/da
+ta/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1440.pk> </home/computa/.miktex/texmf
+s/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1440.pk> </home/computa/.miktex/t
+exmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm2074.pk></home/computa/.mikte
+x/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/computa/.mikt
+ex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
+Output written on "OB project.pdf" (18 pages, 598415 bytes).
 PDF statistics:
- 317 PDF objects out of 1000 (max. 8388607)
+ 409 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
