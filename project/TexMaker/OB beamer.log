@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.25)  22 MAR 2020 15:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.25)  23 MAR 2020 11:30
 entering extended mode
 **"./OB beamer.tex"
 ("OB beamer.tex"
@@ -100,8 +100,8 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@dimlist=\toks15
 
 (/home/computa/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg))
-(/home/computa/.miktex/texmfs/install/tex/latex/base/size12.clo
-File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+(/home/computa/.miktex/texmfs/install/tex/latex/base/size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
 (/home/computa/.miktex/texmfs/install/tex/latex/pgf/basiclayer/pgfcore.sty
 (/home/computa/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
@@ -760,201 +760,7 @@ sty)
 (/home/computa/.miktex/texmfs/install/tex/latex/beamer/beamercolorthemeorchid.s
 ty)
 (/home/computa/.miktex/texmfs/install/tex/latex/beamer/beamercolorthemewhale.st
-y)) (/home/computa/.miktex/texmfs/install/tex/latex/pgf/frontendlayer/tikz.sty
-(/home/computa/.miktex/texmfs/install/tex/latex/pgf/basiclayer/pgf.sty
-Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
-
-(/home/computa/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmoduleshapes.c
-ode.tex
-File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfnodeparttextbox=\box77
-)
-(/home/computa/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmoduleplot.cod
-e.tex
-File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-(/home/computa/.miktex/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-versi
-on-0-65.sty
-Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@nodesepstart=\dimen281
-\pgf@nodesepend=\dimen282
-)
-(/home/computa/.miktex/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-versi
-on-1-18.sty
-Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
-))
-(/home/computa/.miktex/texmfs/install/tex/latex/pgf/utilities/pgffor.sty
-(/home/computa/.miktex/texmfs/install/tex/latex/pgf/utilities/pgfkeys.sty
-(/home/computa/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.te
-x)) (/home/computa/.miktex/texmfs/install/tex/latex/pgf/math/pgfmath.sty
-(/home/computa/.miktex/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex))
-(/home/computa/.miktex/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
-(/home/computa/.miktex/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen283
-\pgffor@skip=\dimen284
-\pgffor@stack=\toks51
-\pgffor@toks=\toks52
-))
-(/home/computa/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/tikz.c
-ode.tex
-Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
-
-(/home/computa/.miktex/texmfs/install/tex/generic/pgf/libraries/pgflibraryploth
-andlers.code.tex
-File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@plot@mark@count=\count315
-\pgfplotmarksize=\dimen285
-)
-\tikz@lastx=\dimen286
-\tikz@lasty=\dimen287
-\tikz@lastxsaved=\dimen288
-\tikz@lastysaved=\dimen289
-\tikz@lastmovetox=\dimen290
-\tikz@lastmovetoy=\dimen291
-\tikzleveldistance=\dimen292
-\tikzsiblingdistance=\dimen293
-\tikz@figbox=\box78
-\tikz@figbox@bg=\box79
-\tikz@tempbox=\box80
-\tikz@tempbox@bg=\box81
-\tikztreelevel=\count316
-\tikznumberofchildren=\count317
-\tikznumberofcurrentchild=\count318
-\tikz@fig@count=\count319
-
-(/home/computa/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmodulematrix.c
-ode.tex
-File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfmatrixcurrentrow=\count320
-\pgfmatrixcurrentcolumn=\count321
-\pgf@matrix@numberofcolumns=\count322
-)
-\tikz@expandcount=\count323
-
-(/home/computa/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librar
-ies/tikzlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)))
-(/home/computa/.miktex/texmfs/install/tex/latex/circuitikz/circuitikz.sty
-Package: circuitikz 2020/02/22{} The CircuiTikz circuit drawing package version
- 1.0.1
-
-(/home/computa/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librar
-ies/tikzlibrarycalc.code.tex
-File: tikzlibrarycalc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-(/home/computa/.miktex/texmfs/install/tex/generic/pgf/libraries/pgflibraryarrow
-s.meta.code.tex
-File: pgflibraryarrows.meta.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfarrowinset=\dimen294
-\pgfarrowlength=\dimen295
-\pgfarrowwidth=\dimen296
-\pgfarrowlinewidth=\dimen297
-)
-(/home/computa/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librar
-ies/tikzlibrarybending.code.tex
-File: tikzlibrarybending.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-
-(/home/computa/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmodulebending.
-code.tex
-File: pgfmodulebending.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-
-(/home/computa/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmodulenonlinea
-rtransformations.code.tex
-File: pgfmodulenonlineartransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgftransformnonlinearflatness=\dimen298
-)
-(/home/computa/.miktex/texmfs/install/tex/generic/pgf/libraries/pgflibrarycurvi
-linear.code.tex
-File: pgflibrarycurvilinear.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@curvilinear@time@a=\dimen299
-\pgf@curvilinear@length@a=\dimen300
-\pgf@curvilinear@length@b=\dimen301
-\pgf@curvilinear@length@c=\dimen302
-\pgf@curvilinear@length@d=\dimen303
-)
-\pgf@arrows@the@rigidity=\dimen304
-))
-(/home/computa/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librar
-ies/tikzlibraryfpu.code.tex
-(/home/computa/.miktex/texmfs/install/tex/generic/pgf/libraries/pgflibraryfpu.c
-ode.tex))
-(/home/computa/.miktex/texmfs/install/tex/generic/circuitikz/pgfcirc.defines.te
-x
-\pgf@circ@count@a=\count324
-\pgf@circ@count@b=\count325
-\pgf@circ@count@c=\count326
-\pgf@circ@res@up=\dimen305
-\pgf@circ@res@down=\dimen306
-\pgf@circ@res@zero=\dimen307
-\pgf@circ@res@left=\dimen308
-\pgf@circ@res@right=\dimen309
-\pgf@circ@res@other=\dimen310
-\pgf@circ@res@step=\dimen311
-\pgf@circ@res@temp=\dimen312
-\pgfstartlinewidth=\dimen313
-\pgf@circ@Rlen=\dimen314
-\pgf@circ@scaled@Rlen=\dimen315
-)
-(/home/computa/.miktex/texmfs/install/tex/generic/circuitikz/pgfcircutils.tex)
-(/home/computa/.miktex/texmfs/install/tex/generic/circuitikz/pgfcircshapes.tex)
-
-(/home/computa/.miktex/texmfs/install/tex/generic/circuitikz/pgfcircmonopoles.t
-ex)
-(/home/computa/.miktex/texmfs/install/tex/generic/circuitikz/pgfcircbipoles.tex
-)
-(/home/computa/.miktex/texmfs/install/tex/generic/circuitikz/pgfcirctripoles.te
-x
-\pgf@circ@res@count=\count327
-)
-(/home/computa/.miktex/texmfs/install/tex/generic/circuitikz/pgfcircquadpoles.t
-ex)
-(/home/computa/.miktex/texmfs/install/tex/generic/circuitikz/pgfcircmultipoles.
-tex)
-(/home/computa/.miktex/texmfs/install/tex/generic/circuitikz/pgfcirclabel.tex)
-(/home/computa/.miktex/texmfs/install/tex/generic/circuitikz/pgfcircvoltage.tex
-)
-(/home/computa/.miktex/texmfs/install/tex/generic/circuitikz/pgfcirccurrent.tex
-) (/home/computa/.miktex/texmfs/install/tex/generic/circuitikz/pgfcircflow.tex)
-(/home/computa/.miktex/texmfs/install/tex/generic/circuitikz/pgfcircpath.tex)
-
-Package circuitikz Warning: You did not specify one of the voltage directions:
-(circuitikz)                  oldvoltagedirection, nooldvoltagedirection, 
-(circuitikz)                  RPvoltages or EFvoltages 
-(circuitikz)                Default directions may have changed, 
-(circuitikz)                please check the manual.
-
-)
-(/home/computa/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librar
-ies/tikzlibrarymatrix.code.tex
-File: tikzlibrarymatrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-(/home/computa/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librar
-ies/tikzlibraryshapes.geometric.code.tex
-File: tikzlibraryshapes.geometric.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-
-(/home/computa/.miktex/texmfs/install/tex/generic/pgf/libraries/shapes/pgflibra
-ryshapes.geometric.code.tex
-File: pgflibraryshapes.geometric.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-))
-(/home/computa/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librar
-ies/tikzlibraryarrows.code.tex
-File: tikzlibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-
-(/home/computa/.miktex/texmfs/install/tex/generic/pgf/libraries/pgflibraryarrow
-s.code.tex
-File: pgflibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\arrowsize=\dimen316
-))
-(/home/computa/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librar
-ies/tikzlibrarytrees.code.tex
-File: tikzlibrarytrees.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
-(/home/computa/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librar
-ies/tikzlibrarypositioning.code.tex
-File: tikzlibrarypositioning.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)
+y))
 \@indexfile=\write5
 \openout5 = `"OB beamer.idx"'.
 
@@ -963,28 +769,28 @@ Writing index file "OB beamer".idx
 
 (/home/computa/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-23 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count328
-\l__pdf_internal_box=\box82
-) ("OB beamer.aux" (include/CAPABEAMER.aux))
+\l__kernel_color_stack_int=\count315
+\l__pdf_internal_box=\box77
+)
+No file "OB beamer".aux.
 \openout1 = `"OB beamer.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1004,12 +810,12 @@ LaTeX Font Info:    ... okay on input line 135.
 * \topmargin=-72.26999pt
 * \headheight=14.22636pt
 * \headsep=0.0pt
-* \topskip=12.0pt
+* \topskip=11.0pt
 * \footskip=14.22636pt
 * \marginparwidth=4.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1021,25 +827,25 @@ LaTeX Font Info:    ... okay on input line 135.
 
 (/home/computa/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count329
-\scratchdimen=\dimen317
-\scratchbox=\box83
-\nofMPsegments=\count330
-\nofMParguments=\count331
-\everyMPshowfont=\toks53
-\MPscratchCnt=\count332
-\MPscratchDim=\dimen318
-\MPnumerator=\count333
-\makeMPintoPDFobject=\count334
-\everyMPtoPDFconversion=\toks54
+\scratchcounter=\count316
+\scratchdimen=\dimen281
+\scratchbox=\box78
+\nofMPsegments=\count317
+\nofMParguments=\count318
+\everyMPshowfont=\toks51
+\MPscratchCnt=\count319
+\MPscratchDim=\dimen282
+\MPnumerator=\count320
+\makeMPintoPDFobject=\count321
+\everyMPtoPDFconversion=\toks52
 )
 (/home/computa/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 ) ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box84
-Package hyperref Info: Link coloring OFF on input line 135.
+\AtBeginShipoutBox=\box79
+Package hyperref Info: Link coloring OFF on input line 140.
 
 (/home/computa/.miktex/texmfs/install/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1051,73 +857,72 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 .sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count335
+\c@section@level=\count322
 )
-LaTeX Info: Redefining \ref on input line 135.
-LaTeX Info: Redefining \pageref on input line 135.
-LaTeX Info: Redefining \nameref on input line 135.
- ("OB beamer.out") ("OB beamer.out")
+LaTeX Info: Redefining \ref on input line 140.
+LaTeX Info: Redefining \pageref on input line 140.
+LaTeX Info: Redefining \nameref on input line 140.
 \@outlinefile=\write6
 \openout6 = `"OB beamer.out"'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 135.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 140.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 135.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 140.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 135.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 135.
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 140.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 140.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 135.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 140.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 135.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 135.
+(Font)                  OT1/cmr/bx/n --> T1/cmss/b/n on input line 140.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 140.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 135.
+(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 140.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 135.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 135.
+(Font)                  OT1/cmss/bx/n --> T1/cmss/m/n on input line 140.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 140.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 135.
+(Font)                  OT1/cmr/m/it --> T1/cmss/m/it on input line 140.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 135.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 135.
+(Font)                  OT1/cmr/bx/it --> T1/cmss/m/it on input line 140.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 140.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 135.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 140.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 135.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 140.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 135.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 140.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 135.
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 140.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 135.
+(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 140.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 135.
+(Font)                  T1/cmss/b/n --> T1/cmss/b/n on input line 140.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 135.
+(Font)                  T1/cmss/m/n --> T1/cmss/b/n on input line 140.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 135.
+(Font)                  T1/cmss/m/it --> T1/cmss/b/it on input line 140.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 135.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 135.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 140.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 140.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `normal' on input line 13
-5.
+(Font)              `pureletters' in the math version `normal' on input line 14
+0.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 13
-5.
+(Font)                  T1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 14
+0.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `bold' on input line 135.
+(Font)              `pureletters' in the math version `bold' on input line 140.
 
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 13
-5.
+(Font)                  T1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 14
+0.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 135.
+ut line 140.
 
 (/home/computa/.miktex/texmfs/install/tex/latex/translator/translator-basic-dic
 tionary-English.dict
@@ -1151,7 +956,9 @@ File: portuguese.bdf 2019/03/11 v1.32 babelbib: multilingual bibliographies (HH
 
 babelbib extension \bibsportuguese added to \extrasportuguese
 babelbib extension \btxifchangecaseoff added to \extrasportuguese
-) ("OB beamer.nav"))
+)
+No file "OB beamer".nav.
+)
 \openout2 = `./include/CAPABEAMER.aux'.
 
  (include/CAPABEAMER.tex
@@ -1159,47 +966,83 @@ babelbib extension \btxifchangecaseoff added to \extrasportuguese
 Package hyperref Warning: Option `pdfauthor' has already been used,
 (hyperref)                setting the option has no effect on input line 3.
 
-) [1{/home/computa/.miktex/texmfs/data/pdftex/config/pdftex.map}
+) [1
 
 
 
-] [2
-
-] [3
+{/home/computa/.miktex/texmfs/data/pdftex/config/pdftex.map}] [2
 
 ]
+No file "OB beamer".toc.
+[3
+
+]
+No file "OB beamer".toc.
 [4
 
+] [5
+
+] [6
+
 ]
-<./image/OB/Ogbonna & Harris.jpg, id=184, 1222.5675pt x 610.28pt>
+No file "OB beamer".toc.
+[7
+
+] [8
+
+] [9
+
+]
+No file "OB beamer".toc.
+[10
+
+] [11
+
+]
+<./image/OB/Ogbonna & Harris.jpg, id=317, 1222.5675pt x 610.28pt>
 File: ./image/OB/Ogbonna & Harris.jpg Graphic file (type jpg)
 <use ./image/OB/Ogbonna & Harris.jpg>
-Package pdftex.def Info: ./image/OB/Ogbonna & Harris.jpg  used on input line 49
-.
+Package pdftex.def Info: ./image/OB/Ogbonna & Harris.jpg  used on input line 10
+9.
 (pdftex.def)             Requested size: 305.64113pt x 152.56963pt.
- [5
 
- <./image/OB/Ogbonna & Harris.jpg>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 65.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [12
+
+]
+[13 <./image/OB/Ogbonna & Harris.jpg>]
+File: ./image/OB/Ogbonna & Harris.jpg Graphic file (type jpg)
+<use ./image/OB/Ogbonna & Harris.jpg>
+Package pdftex.def Info: ./image/OB/Ogbonna & Harris.jpg  used on input line 12
+5.
+(pdftex.def)             Requested size: 122.2639pt x 61.03157pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 125
+.
 
 (/home/computa/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 65.
-
+LaTeX Font Info:    Trying to load font information for U+msb on input line 125
+.
 
 (/home/computa/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 65.
+ut line 125.
 
 (/home/computa/.miktex/texmfs/install/tex/latex/sansmathaccent/ot1mathkerncmss.
 fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
-) [6
+) [14
+
+]
+No file "OB beamer".toc.
+[15
+
+] [16
 
 ]
 \tf@nav=\write7
@@ -1211,29 +1054,38 @@ thkerncmss.
 \tf@snm=\write9
 \openout9 = `"OB beamer.snm"'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 70.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 70.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 138.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 138.
  ("OB beamer.aux" (include/CAPABEAMER.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 70.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 70.
-Package rerunfilecheck Info: File `"OB beamer".out' has not changed.
-(rerunfilecheck)             Checksum: 4951A37E97F8D82B97A8E10547AE17FB;133.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 138.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 138.
+
+
+Package rerunfilecheck Warning: File `"OB beamer".out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `"OB beamer".out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  52A89E6084607C5B211E3F3EA0D45A1F;230.
  ) 
 Here is how much of TeX's memory you used:
- 34899 strings out of 483473
- 815453 string characters out of 2966451
- 1203569 words of memory out of 3000000
- 49236 multiletter control sequences out of 15000+200000
- 542328 words of font info for 51 fonts, out of 3000000 for 9000
+ 19439 strings out of 483473
+ 369957 string characters out of 2966451
+ 629014 words of memory out of 3000000
+ 33912 multiletter control sequences out of 15000+200000
+ 543925 words of font info for 53 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 61i,20n,77p,837b,764s stack positions out of 5000i,500n,10000p,200000b,50000s
- </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecss12
-00.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ec
-ss1728.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi60
-0/ecss0600.pk>
-Output written on "OB beamer.pdf" (6 pages, 170131 bytes).
+ 61i,16n,69p,837b,620s stack positions out of 5000i,500n,10000p,200000b,50000s
+ </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecsi10
+95.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ec
+ss0600.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi60
+0/ecss0900.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/d
+pi600/ecss1095.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/
+ec/dpi600/ecss1440.pk>
+Output written on "OB beamer.pdf" (16 pages, 226420 bytes).
 PDF statistics:
- 326 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
- 114 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 569 PDF objects out of 1000 (max. 8388607)
+ 38 named destinations out of 1000 (max. 500000)
+ 108 words of extra memory for PDF output out of 10000 (max. 10000000)
 

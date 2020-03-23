@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.25)  20 MAR 2020 00:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.25)  23 MAR 2020 11:24
 entering extended mode
 **./PREAMBLEREPORT_1.tex
 (PREAMBLEREPORT_1.tex
@@ -680,8 +680,7 @@ Writing index file PREAMBLEREPORT_1.idx
 File: l3backend-pdfmode.def 2020-02-23 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count292
 \l__pdf_internal_box=\box62
-)
-No file PREAMBLEREPORT_1.aux.
+) (PREAMBLEREPORT_1.aux)
 \openout1 = `PREAMBLEREPORT_1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 165.
@@ -698,6 +697,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 165.
 LaTeX Font Info:    ... okay on input line 165.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 165.
 LaTeX Font Info:    ... okay on input line 165.
+
 babelbib: Use citation-dependent languages in bibliography
 babelbib: Set bibliography fall-back language to portuguese
 (/home/computa/.miktex/texmfs/install/tex/latex/babelbib/portuguese.bdf
@@ -715,14 +715,14 @@ babelbib extension \btxifchangecaseoff added to \extrasportuguese
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
+* h-part:(L,W,R)=(42.67912pt, 526.376pt, 28.45274pt)
 * v-part:(T,H,B)=(56.9055pt, 745.46222pt, 42.67912pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=540.60239pt
+* \textwidth=526.376pt
 * \textheight=745.46222pt
-* \oddsidemargin=-43.81725pt
-* \evensidemargin=-43.81725pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
 * \topmargin=-52.36449pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -767,10 +767,10 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 
  
 Here is how much of TeX's memory you used:
- 27174 strings out of 483473
- 656449 string characters out of 2966451
- 1023599 words of memory out of 3000000
- 41835 multiletter control sequences out of 15000+200000
+ 27185 strings out of 483473
+ 656693 string characters out of 2966451
+ 1023703 words of memory out of 3000000
+ 41844 multiletter control sequences out of 15000+200000
  533400 words of font info for 26 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
  60i,1n,70p,423b,76s stack positions out of 5000i,500n,10000p,200000b,50000s

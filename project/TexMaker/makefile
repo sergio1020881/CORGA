@@ -24,4 +24,5 @@ clean:
 	-rm -rf *.md
 	-rm -rf *.fls
 	-rm -rf *.ps
-
+	-rm -rf *.nav
+	-rm .rf *.snm

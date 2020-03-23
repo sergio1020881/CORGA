@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.25)  22 MAR 2020 16:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300) (preloaded format=pdflatex 2020.2.25)  23 MAR 2020 11:28
 entering extended mode
 **"./OB project.tex"
 ("OB project.tex"
@@ -792,7 +792,7 @@ _marca_cor_grande.png>]) ("OB project.toc")
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 16--17
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
@@ -802,17 +802,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--24
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
 
  []
 
@@ -822,12 +817,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--35
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--40
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
 
  []
 
@@ -837,14 +832,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--44
  []
 
 
-Overfull \hbox (2.50586pt too wide) in paragraph at lines 45--46
-\T1/cmr/m/n/12 resultando uma maior indefinição sobre as actividades a desenvol
-ver por responsaveis e por colaboradores. 
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
-
+Overfull \hbox (2.50586pt too wide) in paragraph at lines 47--48
+\T1/cmr/m/n/12 resultando uma maior indefinição sobre as actividades a desenvol
+ver por responsaveis e por colaboradores. 
  []
 
 
@@ -878,42 +873,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--58
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--75
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--77
+Underfull \hbox (badness 10000) in paragraph at lines 69--77
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--82
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--86
+Underfull \hbox (badness 10000) in paragraph at lines 81--84
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--92
+Underfull \hbox (badness 10000) in paragraph at lines 85--88
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--99
+Underfull \hbox (badness 10000) in paragraph at lines 89--94
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--102
+Underfull \hbox (badness 10000) in paragraph at lines 96--101
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
 
  []
 
@@ -923,62 +918,62 @@ Underfull \hbox (badness 10000) in paragraph at lines 108--109
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--113
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--115
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 124--125
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--125
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--137
+Underfull \hbox (badness 10000) in paragraph at lines 119--139
 
  []
 
 
-Overfull \hbox (42.67911pt too wide) in paragraph at lines 117--137
+Overfull \hbox (42.67911pt too wide) in paragraph at lines 119--139
 []$ 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 138--141
+Underfull \hbox (badness 10000) in paragraph at lines 140--143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--150
+Underfull \hbox (badness 10000) in paragraph at lines 146--152
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 151--152
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--156
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--158
+Underfull \hbox (badness 10000) in paragraph at lines 156--158
 
  []
 
@@ -988,42 +983,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 159--160
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--166
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--170
+Underfull \hbox (badness 10000) in paragraph at lines 163--168
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--172
+Underfull \hbox (badness 10000) in paragraph at lines 169--172
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--177
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
 
  []
 
-[4]
+
 Underfull \hbox (badness 10000) in paragraph at lines 178--179
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 181--183
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 197--201
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 202--203
+Underfull \hbox (badness 10000) in paragraph at lines 183--185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--203
 
  []
 
@@ -1063,53 +1058,53 @@ Underfull \hbox (badness 10000) in paragraph at lines 216--217
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 218--223
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--225
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 224--225
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
 
  []
 
 
-Overfull \hbox (0.77525pt too wide) in paragraph at lines 229--229
+Overfull \hbox (0.77525pt too wide) in paragraph at lines 231--231
 []\T1/cmr/bx/n/17.28 Estudo da Cultura Organizacional segundo o Modelo Ogbonna
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 232--233
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
 
  []
 
 <./image/OB/Ogbonna & Harris.jpg, id=43, 1222.5675pt x 610.28pt>
 File: ./image/OB/Ogbonna & Harris.jpg Graphic file (type jpg)
 <use ./image/OB/Ogbonna & Harris.jpg>
-Package pdftex.def Info: ./image/OB/Ogbonna & Harris.jpg  used on input line 23
-8.
+Package pdftex.def Info: ./image/OB/Ogbonna & Harris.jpg  used on input line 24
+0.
 (pdftex.def)             Requested size: 366.77307pt x 183.0854pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--248
+Underfull \hbox (badness 10000) in paragraph at lines 247--250
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--252
+Underfull \hbox (badness 10000) in paragraph at lines 251--254
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 253--255
+Underfull \hbox (badness 10000) in paragraph at lines 255--257
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 256--258
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 259--260
+Underfull \hbox (badness 10000) in paragraph at lines 258--260
 
  []
 
@@ -1123,12 +1118,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 263--264
 
  []
 
-[6 <./image/OB/Ogbonna & Harris.jpg>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 265--266
 
  []
 
-
+[6 <./image/OB/Ogbonna & Harris.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 267--268
 
  []
@@ -1189,33 +1184,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 289--290
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 291--299
+Underfull \hbox (badness 10000) in paragraph at lines 291--292
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 300--305
+Underfull \hbox (badness 10000) in paragraph at lines 293--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--307
 
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 306--309
+Underfull \hbox (badness 10000) in paragraph at lines 308--311
 
  []
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 316--337
+Underfull \hbox (badness 10000) in paragraph at lines 318--339
 
  []
 
 
-Overfull \hbox (1.32977pt too wide) in paragraph at lines 338--339
+Overfull \hbox (1.32977pt too wide) in paragraph at lines 340--341
 []\T1/cmr/m/n/12 A actividade comportamental consiste em lidar com pessoas, com
 unicar instruções e receber feedback,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 338--339
+Underfull \hbox (badness 10000) in paragraph at lines 340--341
 
  []
 
@@ -1223,56 +1223,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 338--339
 \tf@lof=\write6
 \openout6 = `"OB project.lof"'.
 
- ("OB project.bbl" [10
 
-]
-babelbib: Using the BibTeX style's default font for `name'.
-babelbib: Using the BibTeX style's default font for `lastname'.
-babelbib: Using the BibTeX style's default font for `title'.
-babelbib: Using the BibTeX style's default font for `jtitle'.
-babelbib: Using the BibTeX style's default font for `etal'.
-babelbib: Using the BibTeX style's default font for `journal'.
-babelbib: Using the BibTeX style's default font for `volume'.
-babelbib: Using the BibTeX style's default font for `ISBN'.
-babelbib: Using the BibTeX style's default font for `ISSN'.
-babelbib: Using the BibTeX style's default font for `url'.
-babelbib: Using the BibTeX style's default font for `numeral'.
+No file "OB project".bbl.
+[10
 
-Underfull \hbox (badness 1371) in paragraph at lines 33--35
-[]\T1/cmr/m/it/12 ORGANIZATIONS: BEHAVIOR, STRUCTURE, PROCESSES, FOURTEENTH EDI
-TION\T1/cmr/m/n/12 .
- []
-
-) [11
-
-] [12] ("OB project.aux" (include/CAPAREPORT.aux)) ) 
+] [11] ("OB project.aux" (include/CAPAREPORT.aux)) ) 
 Here is how much of TeX's memory you used:
- 27332 strings out of 483473
- 659349 string characters out of 2966451
- 1029154 words of memory out of 3000000
- 41924 multiletter control sequences out of 15000+200000
- 550839 words of font info for 70 fonts, out of 3000000 for 9000
+ 27317 strings out of 483473
+ 659158 string characters out of 2966451
+ 1029113 words of memory out of 3000000
+ 41912 multiletter control sequences out of 15000+200000
+ 550155 words of font info for 69 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 63i,10n,72p,516b,417s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 63i,10n,72p,517b,312s stack positions out of 5000i,500n,10000p,200000b,50000s
  </home/computa/.miktex/tex
 mfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk> </home/computa/.miktex
 /texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0700.pk> </home/computa/.mi
 ktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0800.pk> </home/computa
-/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1200.pk> </home/com
-puta/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk> </home
-/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1728.pk> </
-home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk
-> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm120
-0.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecb
-x2488.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600
-/ecrm1440.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dp
-i600/ecti1440.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/e
-c/dpi600/ecrm2074.pk></home/computa/.miktex/texmfs/install/fonts/type1/public/a
-msfonts/cm/cmmi10.pfb></home/computa/.miktex/texmfs/install/fonts/type1/public/
-amsfonts/cm/cmmi12.pfb>
-Output written on "OB project.pdf" (15 pages, 309730 bytes).
+/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk> </home/com
+puta/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1728.pk> </home
+/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </
+home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk
+> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx248
+8.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecr
+m1440.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600
+/ecti1440.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dp
+i600/ecrm2074.pk></home/computa/.miktex/texmfs/install/fonts/type1/public/amsfo
+nts/cm/cmmi10.pfb></home/computa/.miktex/texmfs/install/fonts/type1/public/amsf
+onts/cm/cmmi12.pfb>
+Output written on "OB project.pdf" (14 pages, 285688 bytes).
 PDF statistics:
- 382 PDF objects out of 1000 (max. 8388607)
+ 317 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
