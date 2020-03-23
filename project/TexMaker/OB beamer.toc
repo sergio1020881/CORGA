@@ -1,7 +1,0 @@
-\babel@toc {portuguese}{}
-\babel@toc {portuguese}{}
-\beamer@sectionintoc {1}{Introduction}{4}{0}{1}
-\beamer@sectionintoc {2}{Data}{7}{0}{2}
-\beamer@sectionintoc {3}{asdfasdfasdf}{10}{0}{3}
-\beamer@subsectionintoc {3}{1}{shit}{12}{0}{3}
-\beamer@sectionintoc {4}{Overlays}{15}{0}{4}

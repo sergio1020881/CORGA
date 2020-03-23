@@ -9,8 +9,4 @@
 \contentsline {subsection}{\numberline {4.3}Valores}{5}%
 \contentsline {subsection}{\numberline {4.4}Lema}{5}%
 \contentsline {section}{\numberline {5}Estudo da Cultura Organizacional segundo o Modelo Ogbonna \& Harris}{6}%
-\contentsline {section}{\numberline {6}Conclusões}{11}%
-\babel@toc {portuguese}{}
-\babel@toc {portuguese}{}
-\babel@toc {portuguese}{}
-\babel@toc {portuguese}{}
+\contentsline {section}{\numberline {6}Conclusões}{9}%
