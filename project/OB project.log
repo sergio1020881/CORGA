@@ -1,9 +1,9 @@
 This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350) (preloaded format=pdflatex 2020.2.25)  24 MAR 2020 23:34
 entering extended mode
-**./PREAMBLEREPORT_1.tex
-(PREAMBLEREPORT_1.tex
+**"./OB project.tex"
+("OB project.tex"
 LaTeX2e <2020-02-02> patch level 3
-L3 programming layer <2020-02-21>
+L3 programming layer <2020-02-21> (input/PREAMBLEREPORT_1.tex
 (/home/computa/.miktex/texmfs/install/tex/latex/base/report.cls
 Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
 (/home/computa/.miktex/texmfs/install/tex/latex/base/size12.clo
@@ -782,17 +782,24 @@ File: tikzlibrarypositioning.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \c@definition=\count304
 \c@notation=\count305
 \@indexfile=\write4
-\openout4 = `PREAMBLEREPORT_1.idx'.
+\openout4 = `"OB project.idx"'.
 
 
-Writing index file PREAMBLEREPORT_1.idx
+Writing index file "OB project".idx
 
 (/home/computa/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-23 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count306
 \l__pdf_internal_box=\box108
-) (PREAMBLEREPORT_1.aux)
-\openout1 = `PREAMBLEREPORT_1.aux'.
+) ("OB project.aux" (include/CAPAREPORT.aux)
+
+LaTeX Warning: Label `grafico 1' multiply defined.
+
+
+LaTeX Warning: Label `grafico 1' multiply defined.
+
+)
+\openout1 = `"OB project.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 168.
 LaTeX Font Info:    ... okay on input line 168.
@@ -808,8 +815,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 168.
 LaTeX Font Info:    ... okay on input line 168.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 168.
 LaTeX Font Info:    ... okay on input line 168.
-
-(/home/computa/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+ (/home/computa/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count307
 \scratchdimen=\dimen303
@@ -874,18 +880,322 @@ File: portuguese.bdf 2019/03/11 v1.32 babelbib: multilingual bibliographies (HH
 babelbib extension \bibsportuguese added to \extrasportuguese
 babelbib extension \btxifchangecaseoff added to \extrasportuguese
 ) ABD: EveryShipout initializing macros)
-! Emergency stop.
-<*> ./PREAMBLEREPORT_1.tex
-                          
-*** (job aborted, no legal \end found)
+\openout2 = `./include/CAPAREPORT.aux'.
 
- 
+ (include/CAPAREPORT.tex
+<./image/capa/ISEP_marca_cor_grande.png, id=4, 730.6497pt x 278.2395pt>
+File: ./image/capa/ISEP_marca_cor_grande.png Graphic file (type png)
+<use ./image/capa/ISEP_marca_cor_grande.png>
+Package pdftex.def Info: ./image/capa/ISEP_marca_cor_grande.png  used on input 
+line 15.
+(pdftex.def)             Requested size: 438.3932pt x 166.94498pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 16.
+
+
+(/home/computa/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 16.
+
+
+(/home/computa/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<./image/ROQ/ROQ.jpg, id=6, 288.07625pt x 110.4125pt>
+File: ./image/ROQ/ROQ.jpg Graphic file (type jpg)
+<use ./image/ROQ/ROQ.jpg>
+Package pdftex.def Info: ./image/ROQ/ROQ.jpg  used on input line 19.
+(pdftex.def)             Requested size: 144.03777pt x 55.2061pt.
+)
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 1--2
+[]$[]$ 
+ []
+
+[1
+
+
+{/home/computa/.miktex/texmfs/data/pdftex/config/pdftex.map} <./image/capa/ISEP
+_marca_cor_grande.png> <./image/ROQ/ROQ.jpg>] ("OB project.toc")
+\tf@toc=\write5
+\openout5 = `"OB project.toc"'.
+
+ [2
+
+
+]
+Overfull \hbox (12.71729pt too wide) in paragraph at lines 14--15
+\T1/cmr/m/n/12 Este trabalho consiste na análise de uma organização, quanto ao 
+Comportamento e Cultura Organizacional. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+[1]
+<./image/ROQ/maquinas/ECO-P18_600x600-2-275x275.jpg, id=26, 276.03125pt x 276.0
+3125pt>
+File: ./image/ROQ/maquinas/ECO-P18_600x600-2-275x275.jpg Graphic file (type jpg
+)
+<use ./image/ROQ/maquinas/ECO-P18_600x600-2-275x275.jpg>
+Package pdftex.def Info: ./image/ROQ/maquinas/ECO-P18_600x600-2-275x275.jpg  us
+ed on input line 35.
+(pdftex.def)             Requested size: 138.01527pt x 138.01527pt.
+<./image/ROQ/maquinas/EVO-600x600-275x275.jpg, id=27, 276.03125pt x 276.03125pt
+>
+File: ./image/ROQ/maquinas/EVO-600x600-275x275.jpg Graphic file (type jpg)
+<use ./image/ROQ/maquinas/EVO-600x600-275x275.jpg>
+Package pdftex.def Info: ./image/ROQ/maquinas/EVO-600x600-275x275.jpg  used on 
+input line 36.
+(pdftex.def)             Requested size: 138.01527pt x 138.01527pt.
+<./image/ROQ/maquinas/nanop10-275x275.jpg, id=28, 276.03125pt x 276.03125pt>
+File: ./image/ROQ/maquinas/nanop10-275x275.jpg Graphic file (type jpg)
+<use ./image/ROQ/maquinas/nanop10-275x275.jpg>
+Package pdftex.def Info: ./image/ROQ/maquinas/nanop10-275x275.jpg  used on inpu
+t line 37.
+(pdftex.def)             Requested size: 138.01527pt x 138.01527pt.
+<./image/ROQ/maquinas/NEXTP18-600x6001-275x275.jpg, id=29, 276.03125pt x 276.03
+125pt>
+File: ./image/ROQ/maquinas/NEXTP18-600x6001-275x275.jpg Graphic file (type jpg)
+
+<use ./image/ROQ/maquinas/NEXTP18-600x6001-275x275.jpg>
+Package pdftex.def Info: ./image/ROQ/maquinas/NEXTP18-600x6001-275x275.jpg  use
+d on input line 38.
+(pdftex.def)             Requested size: 138.01527pt x 138.01527pt.
+<./image/ROQ/maquinas/PRO-600x600-275x275.jpg, id=30, 276.03125pt x 276.03125pt
+>
+File: ./image/ROQ/maquinas/PRO-600x600-275x275.jpg Graphic file (type jpg)
+<use ./image/ROQ/maquinas/PRO-600x600-275x275.jpg>
+Package pdftex.def Info: ./image/ROQ/maquinas/PRO-600x600-275x275.jpg  used on 
+input line 39.
+(pdftex.def)             Requested size: 138.01527pt x 138.01527pt.
+<./image/ROQ/maquinas/You-600x600-275x275.jpg, id=31, 276.03125pt x 276.03125pt
+>
+File: ./image/ROQ/maquinas/You-600x600-275x275.jpg Graphic file (type jpg)
+<use ./image/ROQ/maquinas/You-600x600-275x275.jpg>
+Package pdftex.def Info: ./image/ROQ/maquinas/You-600x600-275x275.jpg  used on 
+input line 40.
+(pdftex.def)             Requested size: 138.01527pt x 138.01527pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--44
+
+ []
+
+
+Overfull \hbox (2.89755pt too wide) in paragraph at lines 23--44
+\T1/cmr/m/n/12 Os equipamentos fabricados são de conceção própria, desenhados p
+or um departamento técnico altamente
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--44
+
+ []
+
+[1 <./image/ROQ/maquinas/ECO-P18_600x600-2-275x275.jpg> <./image/ROQ/maquinas/E
+VO-600x600-275x275.jpg> <./image/ROQ/maquinas/nanop10-275x275.jpg> <./image/ROQ
+/maquinas/NEXTP18-600x6001-275x275.jpg> <./image/ROQ/maquinas/PRO-600x600-275x2
+75.jpg> <./image/ROQ/maquinas/You-600x600-275x275.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 45--49
+
+ []
+
+
+Overfull \hbox (9.27112pt too wide) in paragraph at lines 45--49
+\T1/cmr/m/n/12 Em 2015 a marca Sroque transformou-se em ROQ. Atendendo às neces
+sidades do seculo XXI reconhecemos
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 62--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--95
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
+
+ []
+
+
+Overfull \hbox (5.57597pt too wide) in paragraph at lines 233--234
+[]\T1/cmr/m/n/12 Actuação sempre no interesse dos nossos parceiros de forma a p
+romover a sua satisfação e fidelização. 
+ []
+
+[4]
+Overfull \hbox (0.77525pt too wide) in paragraph at lines 279--279
+[]\T1/cmr/bx/n/17.28 Estudo da Cultura Organizacional segundo o Modelo Ogbonna
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--289
+
+ []
+
+
+Overfull \hbox (11.20656pt too wide) in paragraph at lines 281--289
+\T1/cmr/m/n/12 O Modelo Ogbonna & Harris estuda a relação entre as variáveis Es
+tilos de liderança, Cultura organizacional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--289
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--289
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--289
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--318
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
+
+ []
+
+[5]
+<./image/OB/Leadership.jpg, id=51, 1072.005pt x 559.08875pt>
+File: ./image/OB/Leadership.jpg Graphic file (type jpg)
+<use ./image/OB/Leadership.jpg>
+Package pdftex.def Info: ./image/OB/Leadership.jpg  used on input line 339.
+(pdftex.def)             Requested size: 536.00119pt x 279.54369pt.
+
+Overfull \hbox (9.62518pt too wide) in paragraph at lines 339--339
+ [][] 
+ []
+
+<./image/OB/Culture.jpg, id=52, 891.33pt x 558.085pt>
+File: ./image/OB/Culture.jpg Graphic file (type jpg)
+<use ./image/OB/Culture.jpg>
+Package pdftex.def Info: ./image/OB/Culture.jpg  used on input line 346.
+(pdftex.def)             Requested size: 534.80214pt x 334.85359pt.
+
+Overfull \hbox (8.42613pt too wide) in paragraph at lines 346--346
+ [][] 
+ []
+
+[6 <./image/OB/Leadership.jpg> <./image/OB/Culture.jpg>]
+<./image/OB/Ogbonna & Harris.jpg, id=56, 1222.5675pt x 610.28pt>
+File: ./image/OB/Ogbonna & Harris.jpg Graphic file (type jpg)
+<use ./image/OB/Ogbonna & Harris.jpg>
+Package pdftex.def Info: ./image/OB/Ogbonna & Harris.jpg  used on input line 35
+4.
+(pdftex.def)             Requested size: 489.01834pt x 244.10767pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--359
+
+ []
+
+[7 <./image/OB/Ogbonna & Harris.jpg>] [8] ("OB project.lof")
+\tf@lof=\write6
+\openout6 = `"OB project.lof"'.
+
+
+No file "OB project".bbl.
+[9
+
+] [10] ("OB project.aux" (include/CAPAREPORT.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 28620 strings out of 483473
- 681828 string characters out of 2966451
- 1046796 words of memory out of 3000000
- 43255 multiletter control sequences out of 15000+200000
- 533400 words of font info for 26 fonts, out of 3000000 for 9000
+ 28833 strings out of 483473
+ 686948 string characters out of 2966451
+ 1050868 words of memory out of 3000000
+ 43392 multiletter control sequences out of 15000+200000
+ 550492 words of font info for 70 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 60i,1n,70p,423b,76s stack positions out of 5000i,500n,10000p,200000b,50000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 63i,10n,72p,2054b,302s stack positions out of 5000i,500n,10000p,200000b,50000s
+ </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm10
+00.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ec
+rm0700.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi60
+0/ecrm0800.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/d
+pi600/tcrm1200.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/
+ec/dpi600/ecbx1440.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknap
+pen/ec/dpi600/ecbx1728.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/j
+knappen/ec/dpi600/ecbx1200.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfo
+ur/jknappen/ec/dpi600/ecrm1200.pk> </home/computa/.miktex/texmfs/data/fonts/pk/
+ljfour/jknappen/ec/dpi600/ecbx2488.pk> </home/computa/.miktex/texmfs/data/fonts
+/pk/ljfour/jknappen/ec/dpi600/ecrm1440.pk> </home/computa/.miktex/texmfs/data/f
+onts/pk/ljfour/jknappen/ec/dpi600/ecti1440.pk> </home/computa/.miktex/texmfs/da
+ta/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm2074.pk></home/computa/.miktex/texmfs
+/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/computa/.miktex/texmf
+s/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
+Output written on "OB project.pdf" (13 pages, 653098 bytes).
+PDF statistics:
+ 336 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 68 words of extra memory for PDF output out of 10000 (max. 10000000)
+
