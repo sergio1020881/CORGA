@@ -6,4 +6,32 @@ Lloyd C. Harris
 Cardiff University - Marketing & Strategy Section
 
 
+culture accesment instruments
+
+
+questionario ocai OCAI model spreadsheet
+
+ogbonno & harris.pdf
+
+
+@book{fg,
+title
+author
+edition
+publisher
+year
+address
+}
+=
+=
+=
+=
+=
+=
+{{An Innkeeper’s Diary}},
+{John Fothergill},
+{3rd},
+{Penguin},
+1929,
+{London}
 
