@@ -15,23 +15,42 @@ ogbonno & harris.pdf
 
 
 @book{fg,
-title
-author
-edition
-publisher
-year
-address
+title = {{An Innkeeper’s Diary}},
+author = {John Fothergill},
+edition = {3rd},
+publisher = {Penguin},
+year = 1929,
+address = {London}
 }
-=
-=
-=
-=
-=
-=
-{{An Innkeeper’s Diary}},
-{John Fothergill},
-{3rd},
-{Penguin},
-1929,
-{London}
+
+Products
+
+    ROQdry RUN
+    ROQprint OVAL RUN
+    ROQSTACK
+    ROQLABEL A
+    ROQprint NEXT
+    ROQ CTS ink
+    ROQpress Iron
+    ROQadhesive ALL OVER
+    ROQcool
+    ROQstorm
+    ROQasp
+    Rubber Squeegees
+    Screen printing Pallets
+    Positive Registration Unit
+    ROQBAG
+    ROQPACK
+    ROQFOLD
+    ROQ FLOCK
+    ROQpress FOIL
+    ROQ Flash - ROQdry MOBY
+    ROQ flash - ROQdry EVOLUTION
+    ROQ flash - ROQdry ECO
+    ROQTUNNEL
+    ROQprint NANO
+    ROQprint YOU
+    ROQprint ECO
+    ROQprint OVAL PRO
+    ROQprint Oval Evolution
 
