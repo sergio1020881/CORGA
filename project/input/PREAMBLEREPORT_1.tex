@@ -9,14 +9,16 @@
 \usepackage[portuguese]{babel}
 %%%%%%Hyphenation rules%%%%%%
 \usepackage{graphicx} %permite inserir figuras
-\usepackage{subcaption}
+\usepackage{caption}
+%\usepackage{subcaption}
 \usepackage{color,colortbl,multirow}
-\usepackage[top=2cm,left=1.5cm,right=1cm,bottom=2cm]{geometry}
+\usepackage[top=2cm,left=1cm,right=1cm,bottom=2cm]{geometry}
 %\usepackage[margin=2cm]{geometry} %margens
 %\usepackage[left=2cm,top=1cm,bottom=2cm,right=3cm,nohead,nofoot]{geometry}
 \usepackage{paralist}
 \usepackage{float}
 \usepackage{verbatim}
+\usepackage{lipsum}
 \usepackage{multicol}
 \usepackage{babelbib}
 \usepackage{amsfonts}
@@ -162,12 +164,13 @@
 %\usepackage{fullpage}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+%\usepackage{apacite} %Bibliography style
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \makeindex
-\bibliographystyle{babplain}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
+%\bibliographystyle{apacite}
+\bibliographystyle{babplain}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%FIX SECTION NUMBERING%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \renewcommand\thesection{\arabic{section}}
 \renewcommand\thesubsection{\thesection.\arabic{subsection}}
