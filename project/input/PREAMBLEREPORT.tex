@@ -71,8 +71,8 @@
 %\renewcommand\thesection{\arabic{section}}
 %\renewcommand\thesubsection{\thesection.\arabic{subsection}}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\usepackage{enumitem}
 \begin{comment}
+\usepackage{enumitem}
 \setlistdepth{12}
 \newlist{enumitem}{enumerate}{12}
 \setlist[enumitem,1]{label=\roman*)}
@@ -90,8 +90,8 @@
 \end{comment}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\usepackage{enumerate}
 \begin{comment}
+\usepackage{enumerate}
 \renewcommand{\labelitemi}{$\bullet$}
 \renewcommand{\labelitemii}{$\cdot$}
 \renewcommand{\labelitemiii}{$\diamond$}
@@ -99,10 +99,11 @@
 \end{comment}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{comment}
 \usepackage{tikz}
 \usepackage{circuitikz}
 \usetikzlibrary{matrix,shapes.geometric,arrows,trees,positioning,calc}
-\begin{comment}
+%%%%%%%%%%%%%%%%%%%%%%%pre defined figures%%%%%%%%%%%%%%%%%%%%%
 \tikzstyle{RECTANGLE_2} = [rectangle, draw, text width=5em, text centered, rounded corners, minimum height=4em]
 \tikzstyle{RECTANGLE_3} = [rectangle, rounded corners, minimum width=3cm, minimum height=1cm,text centered, draw=black, fill=red!80]
 \tikzstyle{RECTANGLE_4} = [rectangle, draw, fill=blue!20, text width=3cm, text centered, minimum height=4em]
