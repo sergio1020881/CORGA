@@ -1,6 +1,6 @@
 %\documentclass[titlepage, a4paper, 12pt, reqno, openany]{beamer}
 %\documentclass[12pt]{beamer}
-\documentclass{beamer}
+\documentclass[aspectratio=169]{beamer}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%encoding%%%%%%
 \usepackage[T1]{fontenc}
@@ -22,6 +22,7 @@
 %\usepackage{smartdiagram}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage{graphicx} %permite inserir figuras
+\usepackage{multicol}
 %\usepackage{times}
 %\usepackage{hyphenat}
 %\usepackage{makeidx} %para criar índice remissivo
@@ -44,7 +45,6 @@
 %\usepackage{mathptmx}
 %\usepackage{mathrsfs} %permite o uso de letras trabalhadas
 %\usepackage{microtype}
-%\usepackage{multicol}
 %\usepackage[normalem]{ulem} %permite sublinhar palavras
 %\usepackage{paralist}
 %\usepackage{pifont}
@@ -97,8 +97,9 @@
 \end{comment}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{comment}
+
 \usepackage{tikz}
+\begin{comment}
 \usepackage{circuitikz}
 \usetikzlibrary{matrix,shapes.geometric,arrows,trees,positioning,calc}
 \tikzstyle{RECTANGLE_2} = [rectangle, draw, text width=5em, text centered, rounded corners, minimum height=4em]
