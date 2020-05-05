@@ -1,0 +1,50 @@
+\begin{minipage}{0.95\linewidth}
+\centering
+\makebox[0.9\linewidth]{
+\includegraphics[scale=0.8]%width height angle scale
+{./Image/Screenshot1.png}
+}
+\captionof{figure}{Circuito LC C.C}
+\label{figura 1}
+\end{minipage}\par
+
+
+\begin{figure}[H]
+%h t b H !h
+\centering
+\includegraphics[scale=0.80]{./Image/electpt2.png}
+\caption{{\color{red}$V_c(t)$}\quad e \quad {\color{green}$V_L(t)$} \quad e \quad{\color{blue}$i(t)$}}
+\label{figura 2}
+\end{figure}
+
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.95]{./Image/electpt5.png}
+\caption{Circuito LC com d\'{i}odo em C.C}
+\label{figura 3}
+\end{figure}
+
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=1.3]{./Image/PSIM_0.png}
+\caption{Programa $PSIM$}
+\label{figura 5}
+\end{figure}\par
+
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=1]{./Image/PSIM_5.png}
+\caption{$V_L(t)$}
+\label{figura 10}
+\end{figure}\par
+
+
+
+
+
+
+
+
