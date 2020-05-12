@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400) (preloaded format=pdflatex 2020.4.23)  11 MAY 2020 18:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400) (preloaded format=pdflatex 2020.4.23)  12 MAY 2020 10:36
 entering extended mode
-**./Relatorio_1.tex
-(Relatorio_1.tex
+**./Relatorio_2.tex
+(Relatorio_2.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-03-06> (input/PREAMBLEREPORT.tex
 (/home/computa/.miktex/texmfs/install/tex/latex/base/report.cls
@@ -447,27 +447,27 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 \c@definition=\count286
 \c@notation=\count287
 \@indexfile=\write3
-\openout3 = `Relatorio_1.idx'.
+\openout3 = `Relatorio_2.idx'.
 
 
-Writing index file Relatorio_1.idx
-(Relatorio_1.aux (include/CAPAREPORT.aux))
-\openout1 = `Relatorio_1.aux'.
+Writing index file Relatorio_2.idx
+(Relatorio_2.aux (include/CAPAREPORT.aux))
+\openout1 = `Relatorio_2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 183.
+LaTeX Font Info:    ... okay on input line 183.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 183.
+LaTeX Font Info:    ... okay on input line 183.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 183.
+LaTeX Font Info:    ... okay on input line 183.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 183.
+LaTeX Font Info:    ... okay on input line 183.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 183.
+LaTeX Font Info:    ... okay on input line 183.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 183.
+LaTeX Font Info:    ... okay on input line 183.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 183.
+LaTeX Font Info:    ... okay on input line 183.
 
 (/home/computa/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -541,27 +541,21 @@ babelbib extension \btxifchangecaseoff added to \extrasportuguese
 File: ./image/capa/ISEP_marca_cor_grande.png Graphic file (type png)
 <use ./image/capa/ISEP_marca_cor_grande.png>
 Package pdftex.def Info: ./image/capa/ISEP_marca_cor_grande.png  used on input 
-line 28.
+line 34.
 (pdftex.def)             Requested size: 438.3932pt x 166.94498pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 29.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 35.
 
 
 (/home/computa/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 29.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 35.
 
 
 (/home/computa/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-<./image/ROQ/ROQ.jpg, id=3, 288.07625pt x 110.4125pt>
-File: ./image/ROQ/ROQ.jpg Graphic file (type jpg)
-<use ./image/ROQ/ROQ.jpg>
-Package pdftex.def Info: ./image/ROQ/ROQ.jpg  used on input line 33.
-(pdftex.def)             Requested size: 144.03777pt x 55.2061pt.
-)
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 27--2
+))
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 33--2
 []$[]$ 
  []
 
@@ -569,490 +563,367 @@ Overfull \hbox (17.62482pt too wide) in paragraph at lines 27--2
 
 
 {/home/computa/.miktex/texmfs/data/pdftex/config/pdftex.map} <./image/capa/ISEP
-_marca_cor_grande.png> <./image/ROQ/ROQ.jpg>] (Relatorio_1.toc)
+_marca_cor_grande.png>] (Relatorio_2.toc)
 \tf@toc=\write4
-\openout4 = `Relatorio_1.toc'.
+\openout4 = `Relatorio_2.toc'.
 
  [2
 
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 13--22
+] [1]
+Underfull \hbox (badness 10000) in paragraph at lines 20--22
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--22
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
  []
 
 
-Overfull \hbox (0.83261pt too wide) in paragraph at lines 13--22
-\T1/cmr/bx/n/12 Palavras Chave: \T1/cmr/m/n/12 Comportamento Organizacional, Cu
-ltura Organizacional, Comunicação, Motivação,
- []
-
-[1]
-
-LaTeX Warning: Citation `book_10' on page 1 undefined on input line 30.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--43
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--43
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
  []
 
-
-Overfull \hbox (1.56473pt too wide) in paragraph at lines 26--43
-\T1/cmr/m/n/12 A S.Roque é uma organização privada com fins lucrativos, que tem
- de oferecer valor aos seus (potenciais)
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--43
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--43
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--43
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--43
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--43
-
- []
-
-
-Overfull \hbox (2.77959pt too wide) in paragraph at lines 26--43
-\T1/cmr/m/n/12 supostamente poderia representar as organizações no país, tirand
-o conclusões interessantes e indicadores
- []
-
-[1]
-
-LaTeX Warning: Citation `book_2' on page 2 undefined on input line 46.
-
-<./image/OB/OB_contributions.jpg, id=28, 587.19376pt x 627.34375pt>
-File: ./image/OB/OB_contributions.jpg Graphic file (type jpg)
-<use ./image/OB/OB_contributions.jpg>
-Package pdftex.def Info: ./image/OB/OB_contributions.jpg  used on input line 51
+<./image/SGS/Contribuicoes_1.jpg, id=23, 677.53125pt x 211.79124pt>
+File: ./image/SGS/Contribuicoes_1.jpg Graphic file (type jpg)
+<use ./image/SGS/Contribuicoes_1.jpg>
+Package pdftex.def Info: ./image/SGS/Contribuicoes_1.jpg  used on input line 56
 .
-(pdftex.def)             Requested size: 305.34251pt x 326.22063pt.
+(pdftex.def)             Requested size: 338.76479pt x 105.89536pt.
 
-LaTeX Warning: Citation `book_2' on page 2 undefined on input line 52.
-
-
-LaTeX Warning: Citation `book_2' on page 2 undefined on input line 52.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 45--53
+Underfull \hbox (badness 10000) in paragraph at lines 51--58
 
  []
 
 
-LaTeX Warning: Citation `book_10' on page 2 undefined on input line 57.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--59
+Underfull \hbox (badness 10000) in paragraph at lines 59--66
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--59
-
- []
-
-[2 <./image/OB/OB_contributions.jpg>]
-<./image/OB/OB_MUltilevelmodelCulture.jpg, id=34, 575.14874pt x 578.16pt>
-File: ./image/OB/OB_MUltilevelmodelCulture.jpg Graphic file (type jpg)
-<use ./image/OB/OB_MUltilevelmodelCulture.jpg>
-Package pdftex.def Info: ./image/OB/OB_MUltilevelmodelCulture.jpg  used on inpu
-t line 64.
-(pdftex.def)             Requested size: 172.54594pt x 173.44933pt.
-
-Overfull \hbox (16.3387pt too wide) in paragraph at lines 64--65
-[]  
- []
-
-<./image/OB/Hofstede_pt.jpg, id=35, 673.51625pt x 340.27126pt>
-File: ./image/OB/Hofstede_pt.jpg Graphic file (type jpg)
-<use ./image/OB/Hofstede_pt.jpg>
-Package pdftex.def Info: ./image/OB/Hofstede_pt.jpg  used on input line 69.
-(pdftex.def)             Requested size: 296.34807pt x 149.7198pt.
-
-Overfull \hbox (88.07704pt too wide) in paragraph at lines 69--70
-[]  
- []
-
-
-LaTeX Warning: Citation `book_11' on page 3 undefined on input line 71.
-
-
-LaTeX Warning: Citation `book_11' on page 3 undefined on input line 71.
-
-
-LaTeX Warning: Citation `book_9' on page 3 undefined on input line 77.
-
-<./image/OB/OC_Dimensions.jpg, id=36, 721.69624pt x 331.2375pt>
-File: ./image/OB/OC_Dimensions.jpg Graphic file (type jpg)
-<use ./image/OB/OC_Dimensions.jpg>
-Package pdftex.def Info: ./image/OB/OC_Dimensions.jpg  used on input line 90.
-(pdftex.def)             Requested size: 288.67339pt x 132.49265pt.
-
-LaTeX Warning: Citation `book_4' on page 3 undefined on input line 91.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--92
+Underfull \hbox (badness 10000) in paragraph at lines 59--66
 
  []
 
 
-Overfull \hbox (20.03525pt too wide) in paragraph at lines 73--92
-\T1/cmr/m/n/12 Ambos a Cultura da Organização e o Comportamento da Liderança fo
-ram identificados como determinantes
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--92
+Underfull \hbox (badness 10000) in paragraph at lines 59--66
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--92
+Underfull \hbox (badness 10000) in paragraph at lines 59--66
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--92
+Underfull \hbox (badness 10000) in paragraph at lines 59--66
+
+ []
+
+[1 <./image/SGS/Contribuicoes_1.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--92
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
 
  []
 
 
-LaTeX Warning: Citation `book_4' on page 3 undefined on input line 95.
-
-
-LaTeX Warning: Citation `book_2' on page 3 undefined on input line 95.
-
-[3 <./image/OB/OB_MUltilevelmodelCulture.jpg> <./image/OB/Hofstede_pt.jpg> <./i
-mage/OB/OC_Dimensions.jpg>] [4]
-<./image/ROQ/maquinas/ECO-P18_600x600-2-275x275.jpg, id=45, 276.03125pt x 276.0
-3125pt>
-File: ./image/ROQ/maquinas/ECO-P18_600x600-2-275x275.jpg Graphic file (type jpg
-)
-<use ./image/ROQ/maquinas/ECO-P18_600x600-2-275x275.jpg>
-Package pdftex.def Info: ./image/ROQ/maquinas/ECO-P18_600x600-2-275x275.jpg  us
-ed on input line 110.
-(pdftex.def)             Requested size: 138.01527pt x 138.01527pt.
-<./image/ROQ/maquinas/EVO-600x600-275x275.jpg, id=46, 276.03125pt x 276.03125pt
->
-File: ./image/ROQ/maquinas/EVO-600x600-275x275.jpg Graphic file (type jpg)
-<use ./image/ROQ/maquinas/EVO-600x600-275x275.jpg>
-Package pdftex.def Info: ./image/ROQ/maquinas/EVO-600x600-275x275.jpg  used on 
-input line 111.
-(pdftex.def)             Requested size: 138.01527pt x 138.01527pt.
-<./image/ROQ/maquinas/nanop10-275x275.jpg, id=47, 276.03125pt x 276.03125pt>
-File: ./image/ROQ/maquinas/nanop10-275x275.jpg Graphic file (type jpg)
-<use ./image/ROQ/maquinas/nanop10-275x275.jpg>
-Package pdftex.def Info: ./image/ROQ/maquinas/nanop10-275x275.jpg  used on inpu
-t line 112.
-(pdftex.def)             Requested size: 138.01527pt x 138.01527pt.
-<./image/ROQ/maquinas/NEXTP18-600x6001-275x275.jpg, id=48, 276.03125pt x 276.03
-125pt>
-File: ./image/ROQ/maquinas/NEXTP18-600x6001-275x275.jpg Graphic file (type jpg)
-
-<use ./image/ROQ/maquinas/NEXTP18-600x6001-275x275.jpg>
-Package pdftex.def Info: ./image/ROQ/maquinas/NEXTP18-600x6001-275x275.jpg  use
-d on input line 113.
-(pdftex.def)             Requested size: 138.01527pt x 138.01527pt.
-<./image/ROQ/maquinas/PRO-600x600-275x275.jpg, id=49, 276.03125pt x 276.03125pt
->
-File: ./image/ROQ/maquinas/PRO-600x600-275x275.jpg Graphic file (type jpg)
-<use ./image/ROQ/maquinas/PRO-600x600-275x275.jpg>
-Package pdftex.def Info: ./image/ROQ/maquinas/PRO-600x600-275x275.jpg  used on 
-input line 114.
-(pdftex.def)             Requested size: 138.01527pt x 138.01527pt.
-<./image/ROQ/maquinas/You-600x600-275x275.jpg, id=50, 276.03125pt x 276.03125pt
->
-File: ./image/ROQ/maquinas/You-600x600-275x275.jpg Graphic file (type jpg)
-<use ./image/ROQ/maquinas/You-600x600-275x275.jpg>
-Package pdftex.def Info: ./image/ROQ/maquinas/You-600x600-275x275.jpg  used on 
-input line 115.
-(pdftex.def)             Requested size: 138.01527pt x 138.01527pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 99--120
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--120
+Underfull \hbox (badness 10000) in paragraph at lines 73--78
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--120
+LaTeX Warning: Command \' invalid in math mode on input line 79.
+
+Missing character: There is no í in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--89
 
  []
 
 
-Overfull \hbox (8.58803pt too wide) in paragraph at lines 99--120
-\T1/cmr/m/n/12 Os equipamentos fabricados são de conceção própria, desenhados p
-or um departamento técnico altamente
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 99--120
+Underfull \hbox (badness 10000) in paragraph at lines 79--89
 
  []
 
-[5 <./image/ROQ/maquinas/ECO-P18_600x600-2-275x275.jpg> <./image/ROQ/maquinas/E
-VO-600x600-275x275.jpg> <./image/ROQ/maquinas/nanop10-275x275.jpg> <./image/ROQ
-/maquinas/NEXTP18-600x6001-275x275.jpg> <./image/ROQ/maquinas/PRO-600x600-275x2
-75.jpg> <./image/ROQ/maquinas/You-600x600-275x275.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 121--126
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
 
  []
 
 
-Overfull \hbox (22.30144pt too wide) in paragraph at lines 121--126
-\T1/cmr/m/n/12 Em 2015 a marca S.Roque transformou-se em ROQ. Atendendo às nece
-ssidades do seculo XXI reconhecemos
- []
-
-[6]
-Overfull \hbox (6.8258pt too wide) in paragraph at lines 128--133
-\T1/cmr/m/n/12 valores e suposições que formam a cultura da organização é depoi
-s reforçada pelos vários comportamentos
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 128--133
-
- []
-
-[7]
-Underfull \hbox (badness 10000) in paragraph at lines 168--174
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--184
-
- []
-
-[8]
-Overfull \hbox (6.46573pt too wide) in paragraph at lines 193--193
-[]\T1/cmr/bx/n/17.28 Estudo da Cultura Organizacional segundo o Modelo Ogbonna
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 194--196
-
- []
-
-<./image/OB/Leadership.jpg, id=65, 1072.005pt x 559.08875pt>
-File: ./image/OB/Leadership.jpg Graphic file (type jpg)
-<use ./image/OB/Leadership.jpg>
-Package pdftex.def Info: ./image/OB/Leadership.jpg  used on input line 236.
-(pdftex.def)             Requested size: 536.00119pt x 279.54369pt.
-
-Overfull \hbox (15.31566pt too wide) in paragraph at lines 236--236
- [][] 
- []
-
-
-LaTeX Warning: Citation `article_1' on page 9 undefined on input line 237.
-
-
-LaTeX Warning: Citation `article_1' on page 9 undefined on input line 237.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 197--238
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--238
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+
+ []
+
+[3] (group/Competencias.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--12
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--238
-
- []
-
-[9 <./image/OB/Leadership.jpg>]
-<./image/OB/Culture.jpg, id=69, 891.33pt x 558.085pt>
-File: ./image/OB/Culture.jpg Graphic file (type jpg)
-<use ./image/OB/Culture.jpg>
-Package pdftex.def Info: ./image/OB/Culture.jpg  used on input line 247.
-(pdftex.def)             Requested size: 534.80214pt x 334.85359pt.
-
-Overfull \hbox (14.11661pt too wide) in paragraph at lines 247--247
- [][] 
- []
-
-
-LaTeX Warning: Citation `article_1' on page 10 undefined on input line 248.
-
-
-LaTeX Warning: Citation `article_1' on page 10 undefined on input line 248.
-
-<./image/OB/Ogbonna & Harris.jpg, id=70, 1222.5675pt x 610.28pt>
-File: ./image/OB/Ogbonna & Harris.jpg Graphic file (type jpg)
-<use ./image/OB/Ogbonna & Harris.jpg>
-Package pdftex.def Info: ./image/OB/Ogbonna & Harris.jpg  used on input line 25
-5.
-(pdftex.def)             Requested size: 427.90503pt x 213.6012pt.
-
-LaTeX Warning: Citation `article_1' on page 10 undefined on input line 256.
-
-
-LaTeX Warning: Citation `article_1' on page 10 undefined on input line 256.
-
-
-LaTeX Warning: Citation `article_1' on page 10 undefined on input line 261.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 259--263
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
 
  []
 
 
-Overfull \hbox (5.97745pt too wide) in paragraph at lines 259--263
-\T1/cmr/m/n/12 orientada às pessoas e participativa seriam mais promissoras par
-a melhorar o desempenho da organização
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 259--263
-
- []
-
-[10 <./image/OB/Culture.jpg> <./image/OB/Ogbonna & Harris.jpg>] [11]
-Underfull \hbox (badness 1515) in paragraph at lines 308--322
-[]\T1/cmr/m/n/6 1- A afirmação não se aplica rigorosamente nada à minha organiz
-ação, 2- Não se aplica, 3- Aplica-se muito pouco, 4- Aplica-se alguma coisa,
- []
-
-[12]
-Overfull \hbox (37.10335pt too wide) in paragraph at lines 331--350
- \T1/cmr/m/n/12 Pelo resultado do inquérito feito pode-se dizer que a S.Roque a
-ponta para uma cultura predominantemente
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 331--350
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
 
  []
 
 
-Overfull \hbox (31.52014pt too wide) in paragraph at lines 331--350
-\T1/cmr/m/n/12 A S.Roque tem orgulho em afirmar que é o primeiro no nosso merca
-do interno e destaca-se internacionalmente.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 331--350
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 331--350
+Underfull \hbox (badness 10000) in paragraph at lines 29--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 331--350
+Underfull \hbox (badness 10000) in paragraph at lines 39--42
 
  []
 
-[13] (Relatorio_1.lof
 
-LaTeX Warning: Citation `book_2' on page 14 undefined on input line 3.
+Underfull \hbox (badness 10000) in paragraph at lines 42--46
 
-
-LaTeX Warning: Citation `book_11' on page 14 undefined on input line 4.
+ []
 
 
-LaTeX Warning: Citation `book_4' on page 14 undefined on input line 5.
+Underfull \hbox (badness 10000) in paragraph at lines 46--50
+
+ []
 
 
-LaTeX Warning: Citation `article_1' on page 14 undefined on input line 7.
+Underfull \hbox (badness 10000) in paragraph at lines 50--56
+
+ []
 
 
-LaTeX Warning: Citation `article_1' on page 14 undefined on input line 8.
+Underfull \hbox (badness 10000) in paragraph at lines 56--63
 
-
-LaTeX Warning: Citation `article_1' on page 14 undefined on input line 9.
+ []
 
 )
+Overfull \hbox (2.61047pt too wide) in paragraph at lines 4--130
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--163
+
+ []
+
+(group/mario1111647.tex
+Underfull \hbox (badness 10000) in paragraph at lines 171--3
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--3
+
+ []
+
+) (group/joao1170384.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--3
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--3
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--3
+
+ []
+
+) (group/sergio1020881.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--3
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--3
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--3
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 5--177
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--177
+
+ []
+
+[6] [7] [8] (Relatorio_2.lof)
 \tf@lof=\write5
-\openout5 = `Relatorio_1.lof'.
+\openout5 = `Relatorio_2.lof'.
 
+ (Relatorio_2.bbl [9
 
-No file Relatorio_1.bbl.
-[14
+]
+babelbib: Using the BibTeX style's default font for `name'.
+babelbib: Using the BibTeX style's default font for `lastname'.
+babelbib: Using the BibTeX style's default font for `title'.
+babelbib: Using the BibTeX style's default font for `jtitle'.
+babelbib: Using the BibTeX style's default font for `etal'.
+babelbib: Using the BibTeX style's default font for `journal'.
+babelbib: Using the BibTeX style's default font for `volume'.
+babelbib: Using the BibTeX style's default font for `ISBN'.
+babelbib: Using the BibTeX style's default font for `ISSN'.
+babelbib: Using the BibTeX style's default font for `url'.
+babelbib: Using the BibTeX style's default font for `numeral'.
 
-] [15] (Relatorio_1.aux (include/CAPAREPORT.aux))
+Underfull \hbox (badness 1874) in paragraph at lines 46--54
+[]\T1/cmr/m/n/12 Gibson, James L., John M. Ivancevich, James H. Donnelly e Jr. 
+Robert Konopaske:
+ []
 
-LaTeX Warning: There were undefined references.
+) [10
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+] [11] (Relatorio_2.aux (include/CAPAREPORT.aux)) ) 
 Here is how much of TeX's memory you used:
- 8259 strings out of 482860
- 130992 string characters out of 2952868
- 536297 words of memory out of 3000000
- 23672 multiletter control sequences out of 15000+200000
- 555818 words of font info for 81 fonts, out of 3000000 for 9000
+ 8206 strings out of 482860
+ 128145 string characters out of 2952868
+ 525208 words of memory out of 3000000
+ 23618 multiletter control sequences out of 15000+200000
+ 554651 words of font info for 80 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 44i,19n,77p,1307b,423s stack positions out of 5000i,500n,10000p,200000b,50000s
- </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm07
-00.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ec
-rm0800.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi60
-0/ecrm1000.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/d
-pi600/ecbx1000.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/
-ec/dpi600/ecrm0600.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknap
-pen/ec/dpi600/tcrm1200.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/j
-knappen/ec/dpi600/ecti1200.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfo
-ur/jknappen/ec/dpi600/ecrm1095.pk> </home/computa/.miktex/texmfs/data/fonts/pk/
-ljfour/jknappen/ec/dpi600/ecbx1095.pk> </home/computa/.miktex/texmfs/data/fonts
-/pk/ljfour/jknappen/ec/dpi600/ecbx1728.pk> </home/computa/.miktex/texmfs/data/f
-onts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </home/computa/.miktex/texmfs/da
-ta/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk> </home/computa/.miktex/texmf
-s/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx2488.pk> </home/computa/.miktex/t
-exmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1440.pk> </home/computa/.mikt
-ex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1440.pk> </home/computa/.
-miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk> </home/compu
-ta/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm2074.pk></home/co
-mputa/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/c
-omputa/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb></home/
-computa/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on Relatorio_1.pdf (18 pages, 975552 bytes).
+ 44i,15n,61p,1201b,591s stack positions out of 5000i,500n,10000p,200000b,50000s
+ </home/computa/.miktex/texm
+fs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk> </home/computa/.miktex/
+texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0700.pk> </home/computa/.mik
+tex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0800.pk> </home/computa/
+.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcti1200.pk> </home/comp
+uta/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1200.pk> </home/
+computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1095.pk> </h
+ome/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1095.pk>
+ </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200
+.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm
+1728.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/
+ecbx1728.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi
+600/ecbx1200.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec
+/dpi600/ecrm1200.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappe
+n/ec/dpi600/ecbx2488.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jkn
+appen/ec/dpi600/ecti1440.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour
+/jknappen/ec/dpi600/ecrm1440.pk> </home/computa/.miktex/texmfs/data/fonts/pk/lj
+four/jknappen/ec/dpi600/ecbx1440.pk> </home/computa/.miktex/texmfs/data/fonts/p
+k/ljfour/jknappen/ec/dpi600/ecrm2074.pk></home/computa/.miktex/texmfs/install/f
+onts/type1/public/amsfonts/cm/cmmi10.pfb></home/computa/.miktex/texmfs/install/
+fonts/type1/public/amsfonts/cm/cmmi12.pfb></home/computa/.miktex/texmfs/install
+/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/computa/.miktex/texmfs/install
+/fonts/type1/public/amsfonts/cm/cmr17.pfb></home/computa/.miktex/texmfs/install
+/fonts/type1/public/amsfonts/cm/cmr8.pfb></home/computa/.miktex/texmfs/install/
+fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/computa/.miktex/texmfs/install
+/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on Relatorio_2.pdf (14 pages, 350643 bytes).
 PDF statistics:
- 589 PDF objects out of 1000 (max. 8388607)
+ 550 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
