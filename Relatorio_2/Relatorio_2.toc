@@ -1,10 +1,14 @@
 \babel@toc {portuguese}{}
 \babel@toc {portuguese}{}
 \contentsline {section}{\numberline {1}Introdução}{1}%
-\contentsline {subsection}{\numberline {1.1}O futuro do trabalho}{3}%
-\contentsline {subsection}{\numberline {1.2}A gestão de carreira e as competências necessárias num mundo em mudança}{4}%
-\contentsline {subsection}{\numberline {1.3}plano de desenvolvimento pessoal de competências}{6}%
-\contentsline {section}{\numberline {2}Conclusão}{8}%
+\contentsline {subsection}{\numberline {1.1}trabalhador por conta de outrem}{1}%
+\contentsline {subsection}{\numberline {1.2}Trabalhadores Independentes}{2}%
+\contentsline {subsection}{\numberline {1.3}Precariedade}{2}%
+\contentsline {subsection}{\numberline {1.4}mudança}{3}%
+\contentsline {section}{\numberline {2}O futuro do trabalho}{3}%
+\contentsline {section}{\numberline {3}A gestão de carreira e as competências necessárias num mundo em mudança}{4}%
+\contentsline {section}{\numberline {4}plano de desenvolvimento pessoal de competências}{6}%
+\contentsline {section}{\numberline {5}Conclusão}{8}%
 \babel@toc {portuguese}{}
 \babel@toc {portuguese}{}
 \babel@toc {portuguese}{}
