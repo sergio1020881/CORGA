@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400) (preloaded format=pdflatex 2020.4.23)  12 MAY 2020 10:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400) (preloaded format=pdflatex 2020.4.23)  12 MAY 2020 13:57
 entering extended mode
 **./Relatorio_2.tex
 (Relatorio_2.tex
@@ -570,113 +570,128 @@ _marca_cor_grande.png>] (Relatorio_2.toc)
  [2
 
 
-] [1]
-Underfull \hbox (badness 10000) in paragraph at lines 20--22
+]
+Underfull \hbox (badness 10000) in paragraph at lines 14--19
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
+Underfull \hbox (badness 10000) in paragraph at lines 14--19
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--48
+Underfull \hbox (badness 10000) in paragraph at lines 14--19
+
+ []
+
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--48
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--52
 
  []
 
 <./image/SGS/Contribuicoes_1.jpg, id=23, 677.53125pt x 211.79124pt>
 File: ./image/SGS/Contribuicoes_1.jpg Graphic file (type jpg)
 <use ./image/SGS/Contribuicoes_1.jpg>
-Package pdftex.def Info: ./image/SGS/Contribuicoes_1.jpg  used on input line 56
+Package pdftex.def Info: ./image/SGS/Contribuicoes_1.jpg  used on input line 59
 .
 (pdftex.def)             Requested size: 338.76479pt x 105.89536pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--58
+Underfull \hbox (badness 10000) in paragraph at lines 54--61
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--66
+Underfull \hbox (badness 10000) in paragraph at lines 62--69
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--66
+Underfull \hbox (badness 10000) in paragraph at lines 62--69
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--66
+Underfull \hbox (badness 10000) in paragraph at lines 62--69
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--66
+Underfull \hbox (badness 10000) in paragraph at lines 62--69
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--66
+Underfull \hbox (badness 10000) in paragraph at lines 62--69
 
  []
 
 [1 <./image/SGS/Contribuicoes_1.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--78
+Underfull \hbox (badness 10000) in paragraph at lines 76--81
 
  []
 
 
-LaTeX Warning: Command \' invalid in math mode on input line 79.
+LaTeX Warning: Command \' invalid in math mode on input line 82.
 
 Missing character: There is no í in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--89
+Underfull \hbox (badness 10000) in paragraph at lines 82--92
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--89
+Underfull \hbox (badness 10000) in paragraph at lines 82--92
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 90--91
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--99
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--99
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--119
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
 
  []
 
@@ -731,92 +746,92 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--63
  []
 
 )
-Overfull \hbox (2.61047pt too wide) in paragraph at lines 4--130
+Overfull \hbox (2.61047pt too wide) in paragraph at lines 4--135
 [] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4--130
+Underfull \hbox (badness 10000) in paragraph at lines 4--135
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--132
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--134
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--138
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--140
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 145--146
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--148
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--150
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 151--152
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--154
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 155--156
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--158
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 159--160
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--163
+Underfull \hbox (badness 10000) in paragraph at lines 166--168
 
  []
 
 (group/mario1111647.tex
-Underfull \hbox (badness 10000) in paragraph at lines 171--3
+Underfull \hbox (badness 10000) in paragraph at lines 176--3
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--3
+Underfull \hbox (badness 10000) in paragraph at lines 176--3
 
  []
 
@@ -851,12 +866,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--3
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 5--177
+Underfull \hbox (badness 10000) in paragraph at lines 5--182
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--177
+Underfull \hbox (badness 10000) in paragraph at lines 5--182
 
  []
 
@@ -904,26 +919,25 @@ uta/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1200.pk> </home/
 computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1095.pk> </h
 ome/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1095.pk>
  </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200
-.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm
+.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx
 1728.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/
-ecbx1728.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi
-600/ecbx1200.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec
-/dpi600/ecrm1200.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappe
-n/ec/dpi600/ecbx2488.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jkn
-appen/ec/dpi600/ecti1440.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour
-/jknappen/ec/dpi600/ecrm1440.pk> </home/computa/.miktex/texmfs/data/fonts/pk/lj
-four/jknappen/ec/dpi600/ecbx1440.pk> </home/computa/.miktex/texmfs/data/fonts/p
-k/ljfour/jknappen/ec/dpi600/ecrm2074.pk></home/computa/.miktex/texmfs/install/f
-onts/type1/public/amsfonts/cm/cmmi10.pfb></home/computa/.miktex/texmfs/install/
-fonts/type1/public/amsfonts/cm/cmmi12.pfb></home/computa/.miktex/texmfs/install
-/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/computa/.miktex/texmfs/install
-/fonts/type1/public/amsfonts/cm/cmr17.pfb></home/computa/.miktex/texmfs/install
-/fonts/type1/public/amsfonts/cm/cmr8.pfb></home/computa/.miktex/texmfs/install/
-fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/computa/.miktex/texmfs/install
-/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on Relatorio_2.pdf (14 pages, 350643 bytes).
+ecbx1200.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi
+600/ecrm1200.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec
+/dpi600/ecbx2488.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jknappe
+n/ec/dpi600/ecti1440.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour/jkn
+appen/ec/dpi600/ecrm1440.pk> </home/computa/.miktex/texmfs/data/fonts/pk/ljfour
+/jknappen/ec/dpi600/ecbx1440.pk> </home/computa/.miktex/texmfs/data/fonts/pk/lj
+four/jknappen/ec/dpi600/ecrm2074.pk></home/computa/.miktex/texmfs/install/fonts
+/type1/public/amsfonts/cm/cmmi10.pfb></home/computa/.miktex/texmfs/install/font
+s/type1/public/amsfonts/cm/cmmi12.pfb></home/computa/.miktex/texmfs/install/fon
+ts/type1/public/amsfonts/cm/cmr12.pfb></home/computa/.miktex/texmfs/install/fon
+ts/type1/public/amsfonts/cm/cmr17.pfb></home/computa/.miktex/texmfs/install/fon
+ts/type1/public/amsfonts/cm/cmr8.pfb></home/computa/.miktex/texmfs/install/font
+s/type1/public/amsfonts/cm/cmsy10.pfb></home/computa/.miktex/texmfs/install/fon
+ts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on Relatorio_2.pdf (14 pages, 344649 bytes).
 PDF statistics:
- 550 PDF objects out of 1000 (max. 8388607)
+ 530 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
