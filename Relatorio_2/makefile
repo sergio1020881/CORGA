@@ -26,3 +26,4 @@ clean:
 	-rm -rf *.ps
 	-rm -rf *.nav
 	-rm .rf *.snm
+
