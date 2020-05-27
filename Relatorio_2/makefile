@@ -6,7 +6,7 @@
 CC = gcc
 CXX = gcc
 
-.PHONY: clean
+.PHONY: non
 
 clean:
 	-rm -rf *.ind
