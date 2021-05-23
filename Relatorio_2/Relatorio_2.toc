@@ -1,0 +1,17 @@
+\babel@toc {portuguese}{}
+\babel@toc {portuguese}{}
+\contentsline {chapter}{Lista de Figuras}{ii}{chapter*.2}%
+\contentsline {section}{\numberline {1}Introdução}{iii}{section.0.1}%
+\contentsline {subsection}{\numberline {1.1}Trabalhador por conta de outrem}{iii}{subsection.0.1.1}%
+\contentsline {subsection}{\numberline {1.2}Trabalhadores Independentes}{iv}{subsection.0.1.2}%
+\contentsline {subsection}{\numberline {1.3}Precariedade}{iv}{subsection.0.1.3}%
+\contentsline {subsection}{\numberline {1.4}Mudança}{v}{subsection.0.1.4}%
+\contentsline {section}{\numberline {2}O futuro do trabalho}{vii}{section.0.2}%
+\contentsline {section}{\numberline {3}A gestão de carreira e as competências necessárias num mundo em mudança}{x}{section.0.3}%
+\contentsline {section}{\numberline {4}Plano de desenvolvimento pessoal de competências}{xi}{section.0.4}%
+\contentsline {subsection}{\numberline {4.1}Análise S.W.O.T Pessoal}{xii}{subsection.0.4.1}%
+\contentsline {subsection}{\numberline {4.2}Curriculum Vitae}{xiii}{subsection.0.4.2}%
+\contentsline {section}{\numberline {5}Conclusão}{xiv}{section.0.5}%
+\contentsline {chapter}{Refer\^{e}ncias}{xv}{chapter*.10}%
+\contentsline {chapter}{Anexos}{xvi}{section*.11}%
+\contentsline {chapter}{\numberline {A}Definições}{xvii}{appendix.1.A}%

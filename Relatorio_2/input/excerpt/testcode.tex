@@ -1,0 +1,78 @@
+
+\reftocname
+
+\textbetweenrules
+
+\HRuleFront
+
+%\newcommand\NoArgs{Text to insert}
+\NewDocumentCommand\NoArgs{}{Text to insert}
+\NoArgs
+
+%\newcommand\OneArg[1]{Text using #1}
+
+%\OneArg{one}
+
+%\newcommand\TwoArgs[2]{Text using #1 and #2}
+
+%\TwoArgs{one}{two}
+
+\NewDocumentCommand\OneArg{m}{Text using #1}
+
+\OneArg{one}
+
+\NewDocumentCommand\TwoArgs{mm}{Text using #1 and #2}
+
+\TwoArgs{one}{two}
+
+%\newcomand\OneOptOfTwo[2][]{Text with #2 and perhaps #1}
+
+%\OneOptOfTwo{one}{}
+
+%\newcomand\OneOptOfThree[3][]{Text with #2, #3 and perhaps #1}
+
+%\OneOptOfThree{one}
+
+%\NewDocumentCommand\OneOptOfTwo{O{}m}%
+%{Text with #2 and perhaps #1}
+%\NewDocumentCommand\OneOptOfTwo{O{}mm}%
+%{Text with #2, #3 and perhaps #1}
+%\newcommand\OneOptWithDefault[2][default]%
+%{Text using #1 (could be the default) and #2}
+%\NewDocumentCommand\OneOptWithDefault{O{default}m}%
+%{Text using #1 (could be the default) and #2}
+
+
+
+%\NewDocumentCommand\OneOptOfTwoWithTest{om}{%
+%	\IfNoValueTF{#1}
+%	{Do stuff with #2 only}
+%	{Do stuff with #1 and #2}%
+%}
+
+\vspace{1cm}
+
+
+\NewDocumentCommand\TwoTypesOfOpt{D<>{}O{}m}%
+{Text using #1, #2 and #3}
+
+
+\TwoTypesOfOpt{one}             % One mandatory
+\\
+\TwoTypesOfOpt[one]{two}       % A normal optional
+\\
+\TwoTypesOfOpt<one>{two}       % A special optional
+\\
+\TwoTypesOfOpt<one>[two]{three} % Both optionals
+
+
+
+
+%\NewDocumentCommand\StarThenArg{sm}{%
+%	\IfBooleanTF#1
+%	{Use #2 with a star}
+%	{Use #2 without a star}%
+%}
+
+
+\newpage

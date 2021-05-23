@@ -1,0 +1,187 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\definecolor{light-gray}{gray}{0.95}
+\definecolor{lightgray}{rgb}{.9,.9,.9}
+%%%%%%%%%%%%%%%%%%%%%%%ISEP SETTINGS START%%%%%%%%%%%%%%%%%%%%%%
+\lstset{
+	language=C,							% choose the language of the code
+	%basicstyle=\small\ttfamily\color{black},
+	basicstyle=\footnotesize\ttfamily\color{black},
+	keywordstyle=\bfseries\color{blue},
+	numbers=left,						% where to put the line-numbers   
+	numberstyle=\tiny\color{gray},		% the size of the fonts that are used for the line-numbers
+	stepnumber=1,						% the step between two line-numbers. If it's 1 each line will be numbered
+	numbersep=2pt,						% how far the line-numbers are from the code
+	xleftmargin=2em,					% keep line numbers inside the margins		
+	frame=tb,							% frame: top and bottom lines
+	framexleftmargin=1.5em,				% frame: adjusts left margin because the xleftmargin numbers setting
+	float=!htb,							% if float defined, let Latex manage it
+	aboveskip=8mm,
+	belowskip=4mm,
+	backgroundcolor=\color{light-gray},
+	commentstyle=\color{red},			% comment style
+	keywordstyle=\color{blue},			% keyword style
+	showspaces=false,					% show spaces adding particular underscores
+	showstringspaces=false,				% underline spaces within strings
+	showtabs=false,						% show tabs within strings adding particular underscores
+	tabsize=2,							% sets default tabsize to 2 spaces
+	captionpos=b,						% sets the caption-position to bottom
+	breaklines=true,					% sets automatic line breaking
+	breakatwhitespace=false,			% sets if automatic breaks should only happen at whitespace
+	escapeinside={\%*}{*)},				% if you want to add a comment within your code
+	morekeywords={*,var,template,new},	% if you want to add more keywords to the set
+	stringstyle=\color{orange},
+	columns=fullflexible
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\begin{comment}
+\DTMnewdatestyle{mydateformat}{
+	\renewcommand{\DTMdisplaydate}[4]{
+		    %\DTMshortweekdayname{##4},\space
+		\DTMmonthname{##2} \nobreakspace de \nobreakspace
+		    %\number##3,\space        
+		\number##1                  
+	}
+	\renewcommand{\DTMDisplaydate}{\DTMdisplaydate}%
+}
+%\end{comment}
+%%%%%%%%%%%%%%%%%%%%%%%ISEP SETTINGS END%%%%%%%%%%%%%%%%%%
+\begin{comment}
+\setlistdepth{12}
+\newlist{enumitem}{enumerate}{12}
+\setlist[enumitem,1]{label=\roman*)}
+\setlist[enumitem,2]{label=\alph*)}
+\setlist[enumitem,3]{label=\arabic*)}
+\setlist[enumitem,4]{label=(\roman*)}
+\setlist[enumitem,5]{label=(\alph*)}
+\setlist[enumitem,6]{label=(\arabic*)}
+\setlist[enumitem,7]{label=\roman*)}
+\setlist[enumitem,8]{label=\alph*)}
+\setlist[enumitem,9]{label=\arabic*)}
+\setlist[enumitem,10]{label=(\roman*)}
+\setlist[enumitem,11]{label=(\alph*)}
+\setlist[enumitem,12]{label=(\arabic*)}
+\end{comment}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{comment}
+\renewcommand{\labelitemi}{$\bullet$}
+\renewcommand{\labelitemii}{$\cdot$}
+\renewcommand{\labelitemiii}{$\diamond$}
+\renewcommand{\labelitemiv}{$\ast$}
+\end{comment}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{comment}
+\tikzstyle{RECTANGLE_2} = [rectangle, draw, text width=5em, text centered, rounded corners, minimum height=4em]
+\tikzstyle{RECTANGLE_3} = [rectangle, rounded corners, minimum width=3cm, minimum height=1cm,text centered, draw=black, fill=red!80]
+\tikzstyle{RECTANGLE_4} = [rectangle, draw, fill=blue!20, text width=3cm, text centered, minimum height=4em]
+\tikzstyle{RECTANGLE_5} = [rectangle, minimum width=3cm, minimum height=1cm, text centered, text width=3cm]
+\tikzstyle{RECTANGLE_6} = [rectangle, draw, fill=blue!20, text width=5em, text centered, rounded corners, minimum height=4em]
+\tikzstyle{RECTANGLE_7} = [rectangle, draw, fill=blue!20, text width=5em, text centered, rounded corners, minimum height=4em]
+\tikzstyle{RECTANGLE_8} = [rectangle, draw, align=left, fill=blue!20]
+\tikzstyle{RECTANGLE_1} = [rectangle, rounded corners, minimum width=1cm, minimum height=1cm,text centered, draw=black, fill=green!%30]
+\tikzstyle{DIAMOND_1} = [diamond, draw, fill=blue!20, text width=4.5em, text badly centered, node distance=4cm, inner sep=0pt]
+\tikzstyle{DIAMOND_2} = [diamond, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=green!30]
+\tikzstyle{DIAMOND_3} = [diamond, draw, text width=4.5em, text badly centered, node distance=3cm, inner sep=0pt]
+\tikzstyle{DIAMOND_4} = [diamond, draw, fill=blue!20, text width=4.5em, text badly centered, node distance=3cm, inner sep=0pt]
+\tikzstyle{DIAMOND_5} = [diamond, draw, fill=blue!20, text width=4.5em, text badly centered, node distance=3cm, inner sep=0pt]
+\tikzstyle{DIAMOND_6} = [diamond, draw, fill=blue!20, text width=4.5em, text badly centered, node distance=4cm, inner sep=0pt]
+\tikzstyle{DIAMOND_7} = [diamond, draw, align=left, fill=blue!20]
+\tikzstyle{ELLIPSE_1} = [draw, ellipse,fill=red!20, node distance=3cm, minimum height=2em]
+\tikzstyle{ELLIPSE_2} = [draw, ellipse,fill=red!20, node distance=3cm, minimum height=2em]
+\tikzstyle{ELLIPSE} = [draw, ellipse,fill=red!20, node distance=3cm, minimum height=2em]
+\tikzstyle{TRAPEZIUM_1} = [trapezium,trapezium left angle=70,trapezium right angle=-70,minimum height=0.6cm, draw, fill=blue!20, text width=4.5em, text badly centered, node distance=3cm, inner sep=0pt]
+\tikzstyle{TRAPEZIUM_2} = [trapezium, trapezium left angle=70, trapezium right angle=110, minimum width=3cm, minimum height=1cm, text centered, draw=black, fill=blue!30]
+\tikzstyle{TRAPEZIUM_3} = [trapezium,trapezium left angle=70,trapezium right angle=-70,minimum height=0.6cm, draw, fill=blue!20, text width=4.5em, text badly centered, node distance=3cm, inner sep=0pt]
+\tikzstyle{ARROW} = [thick,->,>=stealth]
+\tikzstyle{LINE} = [draw, -latex']
+\tikzstyle{MYLINE} = [draw, ->,  thick, shorten <=4pt, shorten >=4pt]
+\tikzstyle{TEXT_1}=[draw,text centered,minimum size=6em,text width=5.25cm,text height=0.34cm]
+\tikzstyle{TEXT_2}=[draw,text centered,minimum size=2em,text width=2.75cm,text height=0.34cm]
+\tikzstyle{TEXT_3}=[draw,minimum size=2.5em,text centered,text width=3.5cm]
+\tikzstyle{TEXT_4}=[draw,minimum size=3em,text centered,text width=6.cm]
+\tikzstyle{CIRCLE_1}=[draw,shape=circle,inner sep=2pt,text centered, node distance=3.5cm]
+\tikzstyle{CIRCLE_2}=[draw,shape=circle,inner sep=4pt,text centered, node distance=3.cm]
+\end{comment}
+\begin{comment}
+%%%%%%%GANTT 1%%%%%%%
+\newganttchartelement*{mymilestone}{
+	mymilestone/.style={
+		shape=isosceles triangle,
+		inner sep=0pt,
+		draw=cyan,
+		top color=white,
+		bottom color=cyan!50
+	},
+	mymilestone incomplete/.style={
+		/pgfgantt/mymilestone,
+		draw=yellow,
+		bottom color=yellow!50
+	},
+	mymilestone label font=\slshape,
+	mymilestone left shift=0pt,
+	mymilestone right shift=0pt
+}
+\newgantttimeslotformat{stardate}{%
+	\def\decomposestardate##1.##2\relax{%
+		\def\stardateyear{##1}\def\stardateday{##2}%
+	}%
+	\decomposestardate#1\relax%
+	\pgfcalendardatetojulian{\stardateyear-01-01}{#2}%
+	\advance#2 by-1\relax%
+	\advance#2 by\stardateday\relax%
+}
+%%%%%%%GANTT 2%%%%%%%
+\end{comment}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\addto{\captionsportuguese}{\renewcommand*\contentsname{\'{I}ndice}}
+\addto{\captionsportuguese}{\renewcommand*\lstlistingname{Listagen}}
+\addto{\captionsportuguese}{\renewcommand*\lstlistlistingname{Listagens}}
+\addto{\captionsportuguese}{\renewcommand*\acronymname{Acrónimos}}
+\addto{\captionsportuguese}{\renewcommand{\bibname}{Refer\^{e}ncias}}
+\addto{\captionsportuguese}{\renewcommand{\appendixname}{Anexo}}
+\addto{\captionsportuguese}{\renewcommand{\appendixpagename}{Anexos}}
+\addto{\captionsportuguese}{\renewcommand{\appendixtocname}{Anexos}}
+%\noappendicestocpagenum
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+\newtheorem{definition}{Defini\c{c}\~{a}o}
+\newtheorem{notation}{Notation}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\makeatletter
+\renewcommand{\@makechapterhead}[1]{%
+	\vspace*{50 pt}%
+	{\setlength{\parindent}{0pt} \raggedright \normalfont
+		\bfseries\Huge\thechapter.\ #1
+		\par\nobreak\vspace{40 pt}}}
+\makeatother
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\renewcommand\thesection{\arabic{section}}
+%\renewcommand\thesubsection{\thesection.\arabic{subsection}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\minipagespace}[1]{{\newline \vspace{#1cm} \newline}}
+\newcommand{\tablespace}[1]{{\vspace{#1cm}}}
+\newcommand{\figurespace}[1]{{\vspace{#1cm}}}
+\newcommand{\listingspace}[1]{{\vspace{#1cm}}}
+%%%%%%%%%%%%%FIX SECTION NUMBERING IN CASE REPORT%%%%%%%%%
+%\renewcommand\thesection{\arabic{section}}
+%\renewcommand\thesubsection{\thesection.\arabic{subsection}}
+%\renewcommand\thesubsubsection{\thesection.\thesubsection.\arabic{subsubsection}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\lstnewenvironment{java}[1][]{%
+	\lstset{language=Java,#1}%
+}{}
+\newcommand*{\incjava}[1][]{%
+	\lstinputlisting[{language=Java,#1}]%
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%FIX SECTION NUMBERING IN CASE REPORT%%%%%%%%%%%%%%
+\renewcommand\thesection{\arabic{section}}
+\renewcommand\thesubsection{\thesection.\arabic{subsection}}
+\renewcommand\thesubsubsection{\thesection.\thesubsection.\arabic{subsubsection}}
+

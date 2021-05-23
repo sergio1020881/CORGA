@@ -1,0 +1,920 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.25)  23 MAY 2021 20:34
+entering extended mode
+**./Relatorio_1.tex
+(Relatorio_1.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-18> (input/PREAMBLEREPORT.tex
+("C:\Program Files\MiKTeX\tex/latex/base\report.cls"
+Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Program Files\MiKTeX\tex/latex/base\size12.clo"
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Program Files\MiKTeX\tex/latex/titlepic\titlepic.sty"
+Package: titlepic 2017/03/14 1.2 Package to display a picture on the title page
+
+)
+("C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty"
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+("C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+("C:\Program Files\MiKTeX\tex/generic/babel\babel.sty"
+Package: babel 2020/06/10 3.45 The Babel package
+
+("C:\Program Files\MiKTeX\tex/generic/babel\babel.def"
+File: babel.def 2020/06/10 3.45 Babel common definitions
+\babel@savecnt=\count176
+\U@D=\dimen135
+\l@babelnohyphens=\language79
+
+("C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def")
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count177
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files\MiKTeX\tex/latex/babel-portuges\portuguese.ldf"
+Language: portuges 2020/05/04 v1.2r Portuguese support from the babel system
+Package babel Info: Making " an active character on input line 143.
+))
+("C:\Program Files\MiKTeX\tex/latex/hyphenat\hyphenat.sty"
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language80
+LaTeX Info: Redefining \_ on input line 43.
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen136
+\Gin@req@width=\dimen137
+)
+("C:\Program Files\MiKTeX\tex/latex/caption\caption.sty"
+Package: caption 2020/09/02 v3.5a Customizing captions (AR)
+
+("C:\Program Files\MiKTeX\tex/latex/caption\caption3.sty"
+Package: caption3 2020/08/30 v2.0 caption3 kernel (AR)
+\captionmargin=\dimen138
+\captionmargin@=\dimen139
+\captionwidth=\dimen140
+\caption@tempdima=\dimen141
+\caption@indent=\dimen142
+\caption@parindent=\dimen143
+\caption@hangindent=\dimen144
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count178
+\c@continuedfloat=\count179
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics\color.sty"
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+("C:\Program Files\MiKTeX\tex/latex/colortbl\colortbl.sty"
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+
+("C:\Program Files\MiKTeX\tex/latex/tools\array.sty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen145
+\ar@mcellbox=\box45
+\extrarowheight=\dimen146
+\NC@list=\toks18
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box46
+)
+\everycr=\toks19
+\minrowclearance=\skip51
+)
+("C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Package option `usenames' ignored on input line 216.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+\rownum=\count180
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+("C:\Program Files\MiKTeX\tex/latex/graphics\dvipsnam.def"
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)
+("C:\Program Files\MiKTeX\tex/latex/xcolor\svgnam.def"
+File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
+))
+("C:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+("C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+("C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count181
+\Gm@cntv=\count182
+\c@Gm@tempcnt=\count183
+\Gm@bindingoffset=\dimen147
+\Gm@wd@mp=\dimen148
+\Gm@odd@mp=\dimen149
+\Gm@even@mp=\dimen150
+\Gm@layoutwidth=\dimen151
+\Gm@layoutheight=\dimen152
+\Gm@layouthoffset=\dimen153
+\Gm@layoutvoffset=\dimen154
+\Gm@dimlist=\toks20
+
+("C:\Program Files\MiKTeX\tex/latex/geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX\tex/latex/paralist\paralist.sty"
+Package: paralist 2017/01/22 v2.7 Extended list environments
+\pltopsep=\skip52
+\plpartopsep=\skip53
+\plitemsep=\skip54
+\plparsep=\skip55
+\pl@lab=\toks21
+)
+("C:\Program Files\MiKTeX\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count184
+\float@exts=\toks22
+\float@box=\box47
+\@float@everytoks=\toks23
+\@floatcapt=\box48
+)
+("C:\Program Files\MiKTeX\tex/latex/tools\verbatim.sty"
+Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks24
+\verbatim@line=\toks25
+\verbatim@in@stream=\read3
+)
+("C:\Program Files\MiKTeX\tex/latex/lipsum\lipsum.sty"
+("C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty"
+Package: expl3 2020-06-18 L3 programming layer (loader) 
+
+("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count185
+\l__pdf_internal_box=\box49
+))
+("C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty"
+Package: xparse 2020-05-15 L3 Experimental document command parser
+
+("C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse-generic.tex"
+\l__xparse_current_arg_int=\count186
+\g__xparse_grabber_int=\count187
+\l__xparse_m_args_int=\count188
+\l__xparse_v_nesting_int=\count189
+))
+Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
+
+("C:\Program Files\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex"
+File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
+))
+("C:\Program Files\MiKTeX\tex/latex/tools\multicol.sty"
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count190
+\mult@box=\box50
+\multicol@leftmargin=\dimen155
+\c@unbalance=\count191
+\c@collectmore=\count192
+\doublecol@number=\count193
+\multicoltolerance=\count194
+\multicolpretolerance=\count195
+\full@width=\dimen156
+\page@free=\dimen157
+\premulticols=\dimen158
+\postmulticols=\dimen159
+\multicolsep=\skip56
+\multicolbaselineskip=\skip57
+\partial@page=\box51
+\last@line=\box52
+\maxbalancingoverflow=\dimen160
+\mult@rightbox=\box53
+\mult@grightbox=\box54
+\mult@gfirstbox=\box55
+\mult@firstbox=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\c@minrows=\count196
+\c@columnbadness=\count197
+\c@finalcolumnbadness=\count198
+\last@try=\dimen161
+\multicolovershoot=\dimen162
+\multicolundershoot=\dimen163
+\mult@nat@firstbox=\box94
+\colbreak@box=\box95
+\mc@col@check@num=\count199
+)
+("C:\Program Files\MiKTeX\tex/latex/multirow\multirow.sty"
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip58
+\multirow@cntb=\count266
+\multirow@dima=\skip59
+\bigstrutjot=\dimen164
+)
+("C:\Program Files\MiKTeX\tex/latex/makecell\makecell.sty"
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen165
+\c@nlinenum=\count267
+\TeXr@lab=\toks26
+)
+("C:\Program Files\MiKTeX\tex/latex/babelbib\babelbib.sty"
+Package: babelbib 2019/03/11 v1.32 babelbib: multilingual bibliographies (HH)
+\c@btxromaniannumeral=\count268
+)
+("C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks27
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip60
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks28
+\ex@=\dimen166
+))
+("C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen167
+)
+("C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count269
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count270
+\leftroot@=\count271
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count272
+\DOTSCASE@=\count273
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box96
+\strutbox@=\box97
+\big@size=\dimen168
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count274
+\c@MaxMatrixCols=\count275
+\dotsspace@=\muskip16
+\c@parentequation=\count276
+\dspbrk@lvl=\count277
+\tag@help=\toks29
+\row@=\count278
+\column@=\count279
+\maxfields@=\count280
+\andhelp@=\toks30
+\eqnshift@=\dimen169
+\alignsep@=\dimen170
+\tagshift@=\dimen171
+\tagwidth@=\dimen172
+\totwidth@=\dimen173
+\lineht@=\dimen174
+\@envbody=\toks31
+\multlinegap=\skip61
+\multlinetaggap=\skip62
+\mathdisplay@stack=\toks32
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+("C:\Program Files\MiKTeX\tex/latex/amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Program Files\MiKTeX\tex/latex/adjustbox\adjustbox.sty"
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+
+("C:\Program Files\MiKTeX\tex/latex/xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Program Files\MiKTeX\tex/generic/xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX\tex/generic/xkeyval\xkvutils.tex"
+\XKV@toks=\toks33
+\XKV@tempa@toks=\toks34
+)
+\XKV@depth=\count281
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Program Files\MiKTeX\tex/latex/adjustbox\adjcalc.sty"
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+("C:\Program Files\MiKTeX\tex/latex/adjustbox\trimclip.sty"
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+("C:\Program Files\MiKTeX\tex/latex/collectbox\collectbox.sty"
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box98
+)
+\tc@llx=\dimen175
+\tc@lly=\dimen176
+\tc@urx=\dimen177
+\tc@ury=\dimen178
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+("C:\Program Files\MiKTeX\tex/latex/adjustbox\tc-pdftex.def"
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen179
+\adjbox@Height=\dimen180
+\adjbox@Depth=\dimen181
+\adjbox@Totalheight=\dimen182
+\adjbox@pwidth=\dimen183
+\adjbox@pheight=\dimen184
+\adjbox@pdepth=\dimen185
+\adjbox@ptotalheight=\dimen186
+
+("C:\Program Files\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty"
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count282
+)
+("C:\Program Files\MiKTeX\tex/latex/varwidth\varwidth.sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box99
+\sift@deathcycles=\count283
+\@vwid@loff=\dimen187
+\@vwid@roff=\dimen188
+))
+("C:\Program Files\MiKTeX\tex/latex/setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+\c@theorem=\count284
+\c@lemma=\count285
+\c@definition=\count286
+\c@notation=\count287
+\@indexfile=\write3
+\openout3 = `Relatorio_1.idx'.
+
+
+Writing index file Relatorio_1.idx
+(Relatorio_1.aux (include/CAPAREPORT.aux))
+\openout1 = `Relatorio_1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+
+("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count288
+\scratchdimen=\dimen189
+\scratchbox=\box100
+\nofMPsegments=\count289
+\nofMParguments=\count290
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count291
+\MPscratchDim=\dimen190
+\MPnumerator=\count292
+\makeMPintoPDFobject=\count293
+\everyMPtoPDFconversion=\toks36
+) ("C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(42.67912pt, 520.68553pt, 34.14322pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=520.68553pt
+* \textheight=731.23584pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+babelbib: Use citation-dependent languages in bibliography
+babelbib: Set bibliography fall-back language to portuguese
+("C:\Program Files\MiKTeX\tex/latex/babelbib\portuguese.bdf"
+File: portuguese.bdf 2019/03/11 v1.32 babelbib: multilingual bibliographies (HH
+)
+
+babelbib extension \bibsportuguese added to \extrasportuguese
+babelbib extension \btxifchangecaseoff added to \extrasportuguese
+))
+\openout2 = `./include/CAPAREPORT.aux'.
+
+ (include/CAPAREPORT.tex
+<./image/capa/ISEP_marca_cor_grande.png, id=1, 730.6497pt x 278.2395pt>
+File: ./image/capa/ISEP_marca_cor_grande.png Graphic file (type png)
+<use ./image/capa/ISEP_marca_cor_grande.png>
+Package pdftex.def Info: ./image/capa/ISEP_marca_cor_grande.png  used on input 
+line 27.
+(pdftex.def)             Requested size: 438.3932pt x 166.94498pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 28.
+
+ ("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
+
+ ("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<./image/ROQ/ROQ.jpg, id=3, 288.07625pt x 110.4125pt>
+File: ./image/ROQ/ROQ.jpg Graphic file (type jpg)
+<use ./image/ROQ/ROQ.jpg>
+Package pdftex.def Info: ./image/ROQ/ROQ.jpg  used on input line 33.
+(pdftex.def)             Requested size: 144.03777pt x 55.2061pt.
+)
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 26--2
+[]$[]$ 
+ []
+
+[1
+
+
+{C:/Users/sergi/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./image/capa/IS
+EP_marca_cor_grande.png> <./image/ROQ/ROQ.jpg>] (Relatorio_1.toc)
+\tf@toc=\write4
+\openout4 = `Relatorio_1.toc'.
+
+ [2
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 13--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--22
+
+ []
+
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 26--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--43
+
+ []
+
+[1]
+<./image/OB/OB_contributions.jpg, id=28, 587.19376pt x 627.34375pt>
+File: ./image/OB/OB_contributions.jpg Graphic file (type jpg)
+<use ./image/OB/OB_contributions.jpg>
+Package pdftex.def Info: ./image/OB/OB_contributions.jpg  used on input line 51
+.
+(pdftex.def)             Requested size: 305.34251pt x 326.22063pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--59
+
+ []
+
+[2 <./image/OB/OB_contributions.jpg>]
+<./image/OB/OB_MUltilevelmodelCulture.jpg, id=34, 575.14874pt x 578.16pt>
+File: ./image/OB/OB_MUltilevelmodelCulture.jpg Graphic file (type jpg)
+<use ./image/OB/OB_MUltilevelmodelCulture.jpg>
+Package pdftex.def Info: ./image/OB/OB_MUltilevelmodelCulture.jpg  used on inpu
+t line 64.
+(pdftex.def)             Requested size: 172.54594pt x 173.44933pt.
+
+Overfull \hbox (16.3387pt too wide) in paragraph at lines 64--65
+[]  
+ []
+
+<./image/OB/Hofstede_pt.jpg, id=35, 673.51625pt x 340.27126pt>
+File: ./image/OB/Hofstede_pt.jpg Graphic file (type jpg)
+<use ./image/OB/Hofstede_pt.jpg>
+Package pdftex.def Info: ./image/OB/Hofstede_pt.jpg  used on input line 69.
+(pdftex.def)             Requested size: 296.34807pt x 149.7198pt.
+
+Overfull \hbox (88.07704pt too wide) in paragraph at lines 69--70
+[]  
+ []
+
+<./image/OB/OC_Dimensions.jpg, id=36, 721.69624pt x 331.2375pt>
+File: ./image/OB/OC_Dimensions.jpg Graphic file (type jpg)
+<use ./image/OB/OC_Dimensions.jpg>
+Package pdftex.def Info: ./image/OB/OC_Dimensions.jpg  used on input line 90.
+(pdftex.def)             Requested size: 288.67339pt x 132.49265pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--92
+
+ []
+
+[3 <./image/OB/OB_MUltilevelmodelCulture.jpg> <./image/OB/Hofstede_pt.jpg> <./i
+mage/OB/OC_Dimensions.jpg>] [4]
+<./image/ROQ/maquinas/ECO-P18_600x600-2-275x275.jpg, id=45, 276.03125pt x 276.0
+3125pt>
+File: ./image/ROQ/maquinas/ECO-P18_600x600-2-275x275.jpg Graphic file (type jpg
+)
+<use ./image/ROQ/maquinas/ECO-P18_600x600-2-275x275.jpg>
+Package pdftex.def Info: ./image/ROQ/maquinas/ECO-P18_600x600-2-275x275.jpg  us
+ed on input line 110.
+(pdftex.def)             Requested size: 138.01527pt x 138.01527pt.
+<./image/ROQ/maquinas/EVO-600x600-275x275.jpg, id=46, 276.03125pt x 276.03125pt
+>
+File: ./image/ROQ/maquinas/EVO-600x600-275x275.jpg Graphic file (type jpg)
+<use ./image/ROQ/maquinas/EVO-600x600-275x275.jpg>
+Package pdftex.def Info: ./image/ROQ/maquinas/EVO-600x600-275x275.jpg  used on 
+input line 111.
+(pdftex.def)             Requested size: 138.01527pt x 138.01527pt.
+<./image/ROQ/maquinas/nanop10-275x275.jpg, id=47, 276.03125pt x 276.03125pt>
+File: ./image/ROQ/maquinas/nanop10-275x275.jpg Graphic file (type jpg)
+<use ./image/ROQ/maquinas/nanop10-275x275.jpg>
+Package pdftex.def Info: ./image/ROQ/maquinas/nanop10-275x275.jpg  used on inpu
+t line 112.
+(pdftex.def)             Requested size: 138.01527pt x 138.01527pt.
+<./image/ROQ/maquinas/NEXTP18-600x6001-275x275.jpg, id=48, 276.03125pt x 276.03
+125pt>
+File: ./image/ROQ/maquinas/NEXTP18-600x6001-275x275.jpg Graphic file (type jpg)
+
+<use ./image/ROQ/maquinas/NEXTP18-600x6001-275x275.jpg>
+Package pdftex.def Info: ./image/ROQ/maquinas/NEXTP18-600x6001-275x275.jpg  use
+d on input line 113.
+(pdftex.def)             Requested size: 138.01527pt x 138.01527pt.
+<./image/ROQ/maquinas/PRO-600x600-275x275.jpg, id=49, 276.03125pt x 276.03125pt
+>
+File: ./image/ROQ/maquinas/PRO-600x600-275x275.jpg Graphic file (type jpg)
+<use ./image/ROQ/maquinas/PRO-600x600-275x275.jpg>
+Package pdftex.def Info: ./image/ROQ/maquinas/PRO-600x600-275x275.jpg  used on 
+input line 114.
+(pdftex.def)             Requested size: 138.01527pt x 138.01527pt.
+<./image/ROQ/maquinas/You-600x600-275x275.jpg, id=50, 276.03125pt x 276.03125pt
+>
+File: ./image/ROQ/maquinas/You-600x600-275x275.jpg Graphic file (type jpg)
+<use ./image/ROQ/maquinas/You-600x600-275x275.jpg>
+Package pdftex.def Info: ./image/ROQ/maquinas/You-600x600-275x275.jpg  used on 
+input line 115.
+(pdftex.def)             Requested size: 138.01527pt x 138.01527pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--120
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--120
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--120
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--120
+
+ []
+
+[5 <./image/ROQ/maquinas/ECO-P18_600x600-2-275x275.jpg> <./image/ROQ/maquinas/E
+VO-600x600-275x275.jpg> <./image/ROQ/maquinas/nanop10-275x275.jpg> <./image/ROQ
+/maquinas/NEXTP18-600x6001-275x275.jpg> <./image/ROQ/maquinas/PRO-600x600-275x2
+75.jpg> <./image/ROQ/maquinas/You-600x600-275x275.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 121--126
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 128--133
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 168--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--184
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 194--196
+
+ []
+
+<./image/OB/Leadership.jpg, id=65, 1072.005pt x 559.08875pt>
+File: ./image/OB/Leadership.jpg Graphic file (type jpg)
+<use ./image/OB/Leadership.jpg>
+Package pdftex.def Info: ./image/OB/Leadership.jpg  used on input line 236.
+(pdftex.def)             Requested size: 536.00119pt x 279.54369pt.
+
+Overfull \hbox (15.31566pt too wide) in paragraph at lines 236--236
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--238
+
+ []
+
+[9 <./image/OB/Leadership.jpg>]
+<./image/OB/Culture.jpg, id=69, 891.33pt x 558.085pt>
+File: ./image/OB/Culture.jpg Graphic file (type jpg)
+<use ./image/OB/Culture.jpg>
+Package pdftex.def Info: ./image/OB/Culture.jpg  used on input line 247.
+(pdftex.def)             Requested size: 534.80214pt x 334.85359pt.
+
+Overfull \hbox (14.11661pt too wide) in paragraph at lines 247--247
+ [][] 
+ []
+
+<./image/OB/Ogbonna_Harris.jpg, id=70, 1222.5675pt x 610.28pt>
+File: ./image/OB/Ogbonna_Harris.jpg Graphic file (type jpg)
+<use ./image/OB/Ogbonna_Harris.jpg>
+Package pdftex.def Info: ./image/OB/Ogbonna_Harris.jpg  used on input line 255.
+
+(pdftex.def)             Requested size: 427.90503pt x 213.6012pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--263
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--263
+
+ []
+
+[10 <./image/OB/Culture.jpg> <./image/OB/Ogbonna_Harris.jpg>] [11]
+Underfull \hbox (badness 1515) in paragraph at lines 308--322
+[]\T1/cmr/m/n/6 1- A afir-ma-ção não se aplica ri-go-ro-sa-mente nada à mi-nha 
+or-ga-ni-za-ção, 2- Não se aplica, 3- Aplica-se muito pouco, 4- Aplica-se al-gu
+ma coisa,
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 331--350
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--350
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--350
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--350
+
+ []
+
+[13] (Relatorio_1.lof)
+\tf@lof=\write5
+\openout5 = `Relatorio_1.lof'.
+
+ (Relatorio_1.bbl [14
+
+]
+babelbib: Using the BibTeX style's default font for `name'.
+babelbib: Using the BibTeX style's default font for `lastname'.
+babelbib: Using the BibTeX style's default font for `title'.
+babelbib: Using the BibTeX style's default font for `jtitle'.
+babelbib: Using the BibTeX style's default font for `etal'.
+babelbib: Using the BibTeX style's default font for `journal'.
+babelbib: Using the BibTeX style's default font for `volume'.
+babelbib: Using the BibTeX style's default font for `ISBN'.
+babelbib: Using the BibTeX style's default font for `ISSN'.
+babelbib: Using the BibTeX style's default font for `url'.
+babelbib: Using the BibTeX style's default font for `numeral'.
+) [15
+
+] [16] (Relatorio_1.aux (include/CAPAREPORT.aux)) ) 
+Here is how much of TeX's memory you used:
+ 8490 strings out of 480790
+ 134011 string characters out of 2907055
+ 549079 words of memory out of 3000000
+ 24282 multiletter control sequences out of 15000+200000
+ 556195 words of font info for 82 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,19n,50p,1307b,590s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\sergi\AppData\Loc
+al\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\sergi\AppDa
+ta\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\sergi
+\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcti1200.pk> <C:\Users
+\sergi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:
+\Users\sergi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.p
+k> <C:\Users\sergi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm
+0600.pk> <C:\Users\sergi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\tcrm1200.pk> <C:\Users\sergi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\ecti1200.pk> <C:\Users\sergi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecrm1095.pk> <C:\Users\sergi\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\sergi\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\sergi\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\sergi\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\sergi\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\sergi\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1440.pk> <C:\Users\sergi\
+AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\
+sergi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\
+Users\sergi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk
+><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program
+ Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+Output written on Relatorio_1.pdf (19 pages, 996740 bytes).
+PDF statistics:
+ 644 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+

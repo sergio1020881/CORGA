@@ -1,0 +1,113 @@
+\begin{thebibliography}{10}
+  \providebibliographyfont{name}{}%
+  \providebibliographyfont{lastname}{}%
+  \providebibliographyfont{title}{\emph}%
+  \providebibliographyfont{jtitle}{\btxtitlefont}%
+  \providebibliographyfont{etal}{\emph}%
+  \providebibliographyfont{journal}{}%
+  \providebibliographyfont{volume}{}%
+  \providebibliographyfont{ISBN}{\MakeUppercase}%
+  \providebibliographyfont{ISSN}{\MakeUppercase}%
+  \providebibliographyfont{url}{\url}%
+  \providebibliographyfont{numeral}{}%
+  \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
+
+\expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
+\bibitem {book_1}
+\btxnamefont {\btxlastnamefont {Bentley}, William} \btxandlong {}\ \btxnamefont
+  {Peter\btxfnamespacelong T. \btxlastnamefont {Davis}}\btxauthorcolon\
+  \btxtitlefont {LEAN SIX SIGMA SECRETS FOR THE CIO}.
+\newblock \btxpublisherfont {CRC Press}, 2010.
+
+\bibitem {book_3}
+\btxnamefont {\btxlastnamefont {Freedman}, M.} \btxandlong {}\ \btxnamefont
+  {Jonathan \btxlastnamefont {Passmore}}\btxauthorcolon\ \btxtitlefont {The
+  Wiley-Blackwell Handbook of the Psychology of Leadership, Change, and
+  Organizational Development}.
+\newblock \btxpublisherfont {A John Wiley \& Sons, Ltd}, 2013.
+
+\bibitem {book_9}
+\btxnamefont {\btxlastnamefont {George}, Jennifer\btxfnamespacelong M.}
+  \btxandlong {}\ \btxnamefont {Gareth\btxfnamespacelong R. \btxlastnamefont
+  {Jones}}\btxauthorcolon\ \btxtitlefont {Understanding and Managing
+  Organizational Behavior sixth Edition}.
+\newblock \btxpublisherfont {Prentice Hall}, 2012.
+
+\bibitem {book_6}
+\btxnamefont {\btxlastnamefont {Gibson}, James\btxfnamespacelong L.},
+  \btxnamefont {John\btxfnamespacelong M. \btxlastnamefont {Ivancevich}},
+  \btxnamefont {James\btxfnamespacelong H. \btxlastnamefont
+  {Donnelly}}\btxandcomma {} \btxandlong {}\ \btxnamefont
+  {Jr.\btxfnamespacelong Robert \btxlastnamefont {Konopaske}}\btxauthorcolon\
+  \btxtitlefont {ORGANIZATIONS: BEHAVIOR, STRUCTURE, PROCESSES, FOURTEENTH
+  EDITION}.
+\newblock \btxpublisherfont {McGraw-Hill}, 2012.
+
+\bibitem {book_11}
+\btxnamefont {\btxlastnamefont {LOCKE}, EDWIN\btxfnamespacelong
+  A.}\btxauthorcolon\ \btxtitlefont {HANDBOOK OF PRINCIPLES OF ORGANIZATIONAL
+  BEHAVIOR Indispensable Knowledge for Evidence-Bases Management Second
+  Edition}.
+\newblock \btxpublisherfont {WILEY}, 2009.
+
+\bibitem {book_4}
+\btxnamefont {\btxlastnamefont {McShane}, Steven\btxfnamespacelong L.}
+  \btxandlong {}\ \btxnamefont {Mary\btxfnamespacelong Ann\btxfnamespacelong
+  Von \btxlastnamefont {Glinow}}\btxauthorcolon\ \btxtitlefont {ORGANIZATIONAL
+  BEHAVIOR eight edition}.
+\newblock \btxpublisherfont {MC GRAW HILL Education}, 2018.
+
+\bibitem {article_1}
+\btxnamefont {\btxlastnamefont {Ogbonna}, Emmanuel} \btxandlong {}\
+  \btxnamefont {Lloyd c.~\btxlastnamefont {Harris}}\btxauthorcolon\
+  \btxjtitlefont {\btxifchangecase {Leadership style, organizational culture
+  and performance: empirical evidence from uk companies}{Leadership style,
+  organizational culture and performance: empirical evidence from UK
+  companies}}.
+\newblock \btxjournalfont {•}, 2000.
+
+\bibitem {book_8}
+\btxnamefont {\btxlastnamefont {Parsaei}, Hamid\btxfnamespacelong
+  R.}\btxauthorcolon\ \btxtitlefont {SIMULATION MODELING HANDBOOK A Practical
+  Approach}.
+\newblock \btxpublisherfont {CRC Press LLC}, 2004.
+
+\bibitem {book_10}
+\btxnamefont {\btxlastnamefont {Pinto}, Carlos\btxfnamespacelong
+  A.\btxfnamespacelong Marques}, \btxnamefont {josé \btxlastnamefont {A.~M.
+  Salgado~Rodrigues}}, \btxnamefont {Américo dos \btxlastnamefont {Santos}},
+  \btxnamefont {Luís\btxfnamespacelong T. \btxlastnamefont {Melo}},
+  \btxnamefont {Maria\btxfnamespacelong Arnaldina\btxfnamespacelong Dias
+  \btxlastnamefont {Moreira}}\btxandcomma {} \btxandlong {}\ \btxnamefont
+  {Rolando\btxfnamespacelong B. \btxlastnamefont {Rodrigues}}\btxauthorcolon\
+  \btxtitlefont {Fundamentos de Gestão 5ª edição}.
+\newblock \btxpublisherfont {Editorial Presença}, 2014.
+
+\bibitem {book_5}
+\btxnamefont {\btxlastnamefont {Reisyan}, Garo\btxfnamespacelong
+  D.}\btxauthorcolon\ \btxtitlefont {Neuro-Organizational Culture A new
+  approach to understanding human behavior and interaction in the workplace}.
+\newblock \btxpublisherfont {Springer International Publishing Switzerland},
+  2016.
+
+\bibitem {book_2}
+\btxnamefont {\btxlastnamefont {Robbin}, Stephen\btxfnamespacelong P.}
+  \btxandlong {}\ \btxnamefont {Timothy\btxfnamespacelong A. \btxlastnamefont
+  {Judge}}\btxauthorcolon\ \btxtitlefont {Essencials of Organizational Behavior
+  12th EDITION}.
+\newblock \btxpublisherfont {Pearson Education, Inc}, 2014.
+
+\bibitem {book_7}
+\btxnamefont {\btxlastnamefont {Robbins}, Stephen\btxfnamespacelong P.}
+  \btxandlong {}\ \btxnamefont {Timothy\btxfnamespacelong A. \btxlastnamefont
+  {Judge}}\btxauthorcolon\ \btxtitlefont {Organizational Behavior, 17th
+  edition}.
+\newblock \btxpublisherfont {Pearson Education Limited}, 2016.
+
+\bibitem {article_2}
+\btxnamefont {\btxlastnamefont {ROQ}}\btxauthorcolon\ \btxjtitlefont
+  {\btxifchangecase
+  {https://roqinternational.com/pt/}{https://roqinternational.com/pt/}}.
+\newblock \btxjournalfont {•}, •.
+
+\end{thebibliography}
